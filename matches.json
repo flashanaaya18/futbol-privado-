@@ -1,5 +1,114 @@
 [
   {
+    "title": "São Paulo vs Boston River",
+    "tournament": "Copa Sudamericana 2025",
+    "status": "17:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Dsports 2",
+        "url": "https://a2vlca.fubohd.com:443/dsports2/mono.m3u8?token=50c185e1395aa1121646ae4d3523bd2bd49d0f1a-e9-1779840824-1779822824"
+      },
+      {
+        "name": "Fanatiz06",
+        "url": "https://anvtcax.fubohd.com:443/fanatiz6/mono.m3u8?token=053e6ded2b0da08ab1a677b59a3bf85318e8cdf0-e0-1779840825-1779822825"
+      },
+      {
+        "name": "Dsports 2 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/dsports2.html"
+      }
+    ]
+  },
+  {
+    "title": "Lanús vs Mirassol",
+    "tournament": "Copa Libertadores",
+    "status": "17:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN2",
+        "url": "https://bGFuZQ.fubohd.com:443/espn2/mono.m3u8?token=de19da94f8fc57965a2c18d419e3608998ad3411-9d-1779840825-1779822825"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://ym9yzq.fubohd.com:443/disney2/mono.m3u8?token=eedcaac11cf1b50838a130d83ff29961112d2111-44-1779840826-1779822826"
+      },
+      {
+        "name": "ESPN2 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn2tv.html"
+      },
+      {
+        "name": "Fanatiz01",
+        "url": "https://cgxheq.fubohd.com:443/fanatiz1/mono.m3u8?token=f75944362556d91f6d4ecbb5191db16144d5d579-5e-1779840826-1779822826"
+      }
+    ]
+  },
+  {
+    "title": "Santos vs Deportivo Cuenca",
+    "tournament": "Copa Sudamericana 2025",
+    "status": "19:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Dsports",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/dsports/mono.m3u8?token=f6dbde11ecb205aca29860bedfc9c042bc51b7a5-34-1779840827-1779822827"
+      },
+      {
+        "name": "Dsports Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/directvperu.html"
+      }
+    ]
+  },
+  {
+    "title": "Nacional vs Coquimbo Unido",
+    "tournament": "Copa Libertadores",
+    "status": "19:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN5",
+        "url": "https://anvtcax.fubohd.com:443/espn5/mono.m3u8?token=7ec7429edf2b18c854f7ccd287545c0f6f72554a-1e-1779840828-1779822828"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://bGFuZQ.fubohd.com:443/disney7/mono.m3u8?token=0424fd8338a45f4043dbc4f57b79678c0d05903c-63-1779840828-1779822828"
+      },
+      {
+        "name": "ESPN5 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn5tv.html"
+      },
+      {
+        "name": "Fanatiz09",
+        "url": "https://streamtpnew.com/global1.php?stream=fanatiz9"
+      },
+      {
+        "name": "Fox Sports 3",
+        "url": "https://rm8zcvk3.fubohd.com:443/foxsports3/mono.m3u8?token=5c19f4e1428e4483ebc95e6d0aaec86ebe8f8ca9-6c-1779840829-1779822829"
+      }
+    ]
+  },
+  {
+    "title": "Grêmio vs Torque",
+    "tournament": "Copa Sudamericana 2025",
+    "status": "17:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Dsports+",
+        "url": "https://c2nvdxq.fubohd.com:443/dsportsplus/mono.m3u8?token=53ab34e011a424c333b5130c99734fe96cbad569-8f-1779840829-1779822829"
+      },
+      {
+        "name": "Dsports+ Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/dsportsplus.html"
+      }
+    ]
+  },
+  {
     "title": "Defensa y Justicia vs Independiente",
     "tournament": "Argentina",
     "status": "11:30",
@@ -8,7 +117,11 @@
     "links": [
       {
         "name": "ESPN4",
-        "url": "https://ag9wzq.fubohd.com:443/espn4/mono.m3u8?token=75fb7ba3efdc403a55aecf3ad885aec3bbb79c09-6e-1779832008-1779814008"
+        "url": "https://b2ZmaWNpYWw.fubohd.com:443/espn4/mono.m3u8?token=38bae19b255820b9fe7f4e90c9efa12c7ae67f17-81-1779840830-1779822830"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/disney1/mono.m3u8?token=60621643d7e1ad91e8b8785dee2591359dc1f42c-93-1779840830-1779822830"
       },
       {
         "name": "ESPN4 Movil",
@@ -25,11 +138,11 @@
     "links": [
       {
         "name": "ESPN5",
-        "url": "https://cgxheq.fubohd.com:443/espn5/mono.m3u8?token=9091aad61c3a507780ca571acc6632650343341d-f0-1779832009-1779814009"
+        "url": "https://wp9xqedt.fubohd.com:443/espn5/mono.m3u8?token=a2402172290b9036fc6be9cda33dbd091bc70a48-4f-1779840831-1779822831"
       },
       {
         "name": "Disney+",
-        "url": "https://c2nvdxq.fubohd.com:443/disney2/mono.m3u8?token=8585b1a3e72eaff6925f555d01fcaadd6919cffb-e8-1779832009-1779814009"
+        "url": "https://cgxheq.fubohd.com:443/disney3/mono.m3u8?token=05828bf698cd870f33f070d1d79a95e2feac951e-d0-1779840832-1779822832"
       },
       {
         "name": "ESPN5 Movil",
@@ -38,36 +151,131 @@
     ]
   },
   {
-    "title": "Grêmio vs Torque",
+    "title": "Palestino vs Deportivo Riestra",
     "tournament": "Copa Sudamericana 2025",
     "status": "17:00",
     "homeLogo": null,
     "awayLogo": null,
     "links": [
       {
-        "name": "Dsports+",
-        "url": "https://b2ZmaWNpYWw.fubohd.com:443/dsportsplus/mono.m3u8?token=6a75f549d839436f24ca4afa1ab32689f4957eed-b6-1779832010-1779814010"
+        "name": "ESPN5",
+        "url": "https://dw5pdgvk.fubohd.com:443/espn5/mono.m3u8?token=4b1251d1651a5f798f7b40f8f298e2c45baa90b4-bf-1779840832-1779822832"
       },
       {
-        "name": "Dsports+ Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/dsportsplus.html"
+        "name": "Disney+",
+        "url": "https://ym9yzq.fubohd.com:443/disney3/mono.m3u8?token=b18409fabd21275e5301572f4d0c625cc1f0043d-1c-1779840833-1779822833"
+      },
+      {
+        "name": "ESPN5 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn5tv.html"
       }
     ]
   },
   {
-    "title": "Greuther Fürth vs Rot-Weiss Essen",
-    "tournament": "Alemania",
-    "status": "13:30",
+    "title": "LDU Quito vs Always Ready",
+    "tournament": "Copa Libertadores",
+    "status": "17:00",
     "homeLogo": null,
     "awayLogo": null,
     "links": [
       {
+        "name": "ESPN",
+        "url": "https://aw1wcm92zq.fubohd.com:443/espn/mono.m3u8?token=ca032f77a1f7a2882a23f0ee5728ffaca0569453-a4-1779840833-1779822833"
+      },
+      {
         "name": "Disney+",
-        "url": "https://a2vlca.fubohd.com:443/disney1/mono.m3u8?token=e7c1c9c86afa246e3e0e5c7c9b09b57c061365df-d1-1779832010-1779814010"
+        "url": "https://rm8zcvk3.fubohd.com:443/disney4/mono.m3u8?token=8f394b790f86c5e62b1cbeef5f9ceb7086d96e6c-a2-1779840834-1779822834"
+      },
+      {
+        "name": "ESPN Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
+      },
+      {
+        "name": "Fanatiz02",
+        "url": "https://a2vlca.fubohd.com:443/fanatiz2/mono.m3u8?token=9f9843af324d582c0e4c563ac2726f6ce5fcce38-4b-1779840834-1779822834"
+      }
+    ]
+  },
+  {
+    "title": "San Lorenzo vs Deportivo Recoleta",
+    "tournament": "Copa Sudamericana 2025",
+    "status": "19:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN3",
+        "url": "https://ym9yzq.fubohd.com:443/espn3/mono.m3u8?token=06be40244eb232aa89a109074727f6f6644387c7-7-1779840835-1779822835"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://ym9yzq.fubohd.com:443/disney8/mono.m3u8?token=a2db6c041da8efd626ce73c7d7ba2f403a614927-bd-1779840835-1779822835"
+      },
+      {
+        "name": "ESPN3 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn3tv.html"
+      },
+      {
+        "name": "Fanatiz01",
+        "url": "https://tyg2mnl9.fubohd.com:443/fanatiz1/mono.m3u8?token=27eabb99ccb875f89c3c37a20855aa92b47119ab-ee-1779840836-1779822836"
+      }
+    ]
+  },
+  {
+    "title": "Estudiantes LP vs Medellín",
+    "tournament": "Copa Libertadores",
+    "status": "19:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN",
+        "url": "https://aw1wcm92zq.fubohd.com:443/espn/mono.m3u8?token=e91a720d26e17cc2af07b609d81a07c10e75e1a9-a7-1779840836-1779822836"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://rm8zcvk3.fubohd.com:443/disney5/mono.m3u8?token=a6f43df96d8c26ea1b631bc2cc462ff36e18534d-1b-1779840837-1779822837"
+      },
+      {
+        "name": "ESPN Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
+      },
+      {
+        "name": "Fox Sports ",
+        "url": "https://bGFuZQ.fubohd.com:443/foxsports/mono.m3u8?token=1ad51373d758028752d65c6ddd92ad6c95f72782-ac-1779840837-1779822837"
+      },
+      {
+        "name": "Fanatiz07",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/fanatiz7/mono.m3u8?token=0aaf33370303183773b9a265d2bc1979bebb21ab-d4-1779840838-1779822838"
+      }
+    ]
+  },
+  {
+    "title": "Flamengo vs Cusco",
+    "tournament": "Copa Libertadores",
+    "status": "19:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN7",
+        "url": "https://ag9wzq.fubohd.com:443/espn7/mono.m3u8?token=0f46bb0a517e13de2733e00f5bcf574ca9359a5e-4a-1779840839-1779822839"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://aw1wcm92zq.fubohd.com:443/disney6/mono.m3u8?token=e45e42b0bc3ea1fef60ade215613c5e2a03a148a-b5-1779840839-1779822839"
+      },
+      {
+        "name": "ESPN7 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn7tv.html"
       },
       {
         "name": "Fox Sports 2",
-        "url": "https://ym9yzq.fubohd.com:443/foxsports2/mono.m3u8?token=5113dea3defe228da4bf26fcafc1c93b7b4f34ee-f3-1779832010-1779814010"
+        "url": "https://x4bnd7lq.fubohd.com:443/foxsports2/mono.m3u8?token=b72bd1125c493b0c65ee274d9548f034a286fce4-3-1779840840-1779822840"
+      },
+      {
+        "name": "Fanatiz10",
+        "url": "https://b2ZmaWNpYWw.fubohd.com:443/fanatiz10/mono.m3u8?token=1c1021b9d3a63642d68ac527754b6cd0aa24c3a4-74-1779840840-1779822840"
       }
     ]
   },
@@ -80,11 +288,11 @@
     "links": [
       {
         "name": "Win Sports +",
-        "url": "https://aw1wcm92zq.fubohd.com:443/winsportsplus/mono.m3u8?token=d429f21775700707f7f08bf4fde24938d4e45940-7f-1779832011-1779814011"
+        "url": "https://bGFuZQ.fubohd.com:443/winsportsplus/mono.m3u8?token=d7ad59efba1f96f5753e9a438dbb53c437fd0db2-cd-1779840841-1779822841"
       },
       {
         "name": "Win Sports + HD",
-        "url": "https://tyg2mnl9.fubohd.com:443/winsports2/mono.m3u8?token=26f9a824f645b2a3e361372820ac4e35568e64e3-34-1779832011-1779814011"
+        "url": "https://cgxheq.fubohd.com:443/winsports2/mono.m3u8?token=ff63596ed165e97bbc0a36fd86cf915759bcfff8-74-1779840841-1779822841"
       },
       {
         "name": "Win Sports + |  opc3",
@@ -101,11 +309,28 @@
     "links": [
       {
         "name": "Dsports",
-        "url": "https://bGFuZQ.fubohd.com:443/dsports/mono.m3u8?token=04aa44a033867f55715943e2a901274fc73ffcee-e-1779832012-1779814012"
+        "url": "https://tyg2mnl9.fubohd.com:443/dsports/mono.m3u8?token=21fd79f63f287f50b2aee7e63f0471bbeaa371dc-77-1779840842-1779822842"
       },
       {
         "name": "Dsports Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/directvperu.html"
+      }
+    ]
+  },
+  {
+    "title": "Greuther Fürth vs Rot-Weiss Essen",
+    "tournament": "Alemania",
+    "status": "13:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Fox Sports 2",
+        "url": "https://aw1wcm92zq.fubohd.com:443/foxsports2/mono.m3u8?token=dc3c0e44ccfcd347874ca5a11760bf71465c71b1-c9-1779840842-1779822842"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://c2nvdxq.fubohd.com:443/disney2/mono.m3u8?token=c6e9b0a1b48d9ae1e0435a3c8934856f529f3cec-60-1779840843-1779822843"
       }
     ]
   }
