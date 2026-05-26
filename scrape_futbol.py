@@ -62,6 +62,35 @@ def decode_iframe_url(iframe: str) -> str:
         return iframe
     return f"{TARGET_DOMAIN}{iframe}"
 
+def resolve_direct_m3u8(url: str) -> str:
+    if not url:
+        return ""
+    
+    # Resolver reproductor web muy común (la14hd.com) a .m3u8 directa
+    if 'la14hd.com' in url:
+        try:
+            print(f"🔍 Resolviendo enlace a .m3u8 directa: {url}")
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+                'Referer': 'https://futbollibretv.mx/'
+            }
+            r = httpx.get(url, headers=headers, timeout=10.0, follow_redirects=True)
+            if r.status_code == 200:
+                match = re.search(r'var\s+playbackURL\s*=\s*["\']([^"\']+)["\']', r.text)
+                if match:
+                    resolved_url = match.group(1)
+                    print(f"   ✅ Éxito: {resolved_url[:50]}...")
+                    return resolved_url
+                match_source = re.search(r'source\s*:\s*["\']([^"\']+\.m3u8[^"\']*)["\']', r.text)
+                if match_source:
+                    resolved_url = match_source.group(1)
+                    print(f"   ✅ Éxito (source): {resolved_url[:50]}...")
+                    return resolved_url
+        except Exception as e:
+            print(f"   ⚠️ Error de resolución: {e}")
+            
+    return url
+
 def fetch_from_agenda_json() -> List[Dict[str, Any]]:
     print("📡 Intentando descargar agenda JSON...")
     response = httpx.get(AGENDA_JSON_URL, headers=HEADERS, timeout=15.0)
@@ -106,9 +135,11 @@ def fetch_from_agenda_json() -> List[Dict[str, Any]]:
             iframe = emb_attr.get('embed_iframe', '')
             stream_url = decode_iframe_url(iframe)
             if stream_url:
+                # Decodificar el wrapper y obtener la m3u8 directa si es posible
+                direct_url = resolve_direct_m3u8(clean_url(stream_url))
                 links.append({
                     "name": name,
-                    "url": clean_url(stream_url)
+                    "url": direct_url
                 })
                 
         if links:

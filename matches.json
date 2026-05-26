@@ -8,11 +8,11 @@
     "links": [
       {
         "name": "ESPN3",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espn3"
+        "url": "https://ym9yzq.fubohd.com:443/espn3/mono.m3u8?token=3ead373a7a6e0c5505965eb518f92138acc3d75f-8e-1779779973-1779761973"
       },
       {
         "name": "ESPN MX",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espnmx"
+        "url": "https://wp9xqedt.fubohd.com:443/espnmx/mono.m3u8?token=8a14895e3adda597475109b41c0a7b9d9732b7d3-93-1779779974-1779761974"
       },
       {
         "name": "ESPN3 Movil",
@@ -24,7 +24,7 @@
       },
       {
         "name": "ESPN Deportes",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espndeportes"
+        "url": "https://agvyby.fubohd.com:443/espndeportes/mono.m3u8?token=a97db37c15ee58af6028edbf693a9aa34f53b84d-f0-1779779975-1779761975"
       }
     ]
   },
@@ -37,28 +37,11 @@
     "links": [
       {
         "name": "ESPN3",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espn3"
+        "url": "https://anvtcax.fubohd.com:443/espn3/mono.m3u8?token=2afa97866b6b0e75f61cf31d04fc85adddd3989d-4f-1779779976-1779761976"
       },
       {
         "name": "ESPN3 Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn3tv.html"
-      }
-    ]
-  },
-  {
-    "title": "Coritiba vs Bahia",
-    "tournament": "Brasil",
-    "status": "18:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Premiere BR ",
-        "url": "https://la14hd.com/vivo/canal.php?stream=premiere1"
-      },
-      {
-        "name": "Sportv",
-        "url": "https://la14hd.com/vivo/canales.php?stream=sportv"
       }
     ]
   },
@@ -71,11 +54,11 @@
     "links": [
       {
         "name": "Win Sports +",
-        "url": "https://la14hd.com/vivo/canal.php?stream=winsportsplus"
+        "url": "https://qzv4jmsc.fubohd.com:443/winsportsplus/mono.m3u8?token=c6568ed2017060ba857e4c07496a896fb6605421-1f-1779779977-1779761977"
       },
       {
         "name": "Win Sports + HD",
-        "url": "https://la14hd.com/vivo/canal.php?stream=winsports2"
+        "url": "https://bGFuZQ.fubohd.com:443/winsports2/mono.m3u8?token=3254159a61d634fddd4172462e7242da4de919f1-fc-1779779977-1779761977"
       },
       {
         "name": "Win Sports + |  opc3",
@@ -92,7 +75,7 @@
     "links": [
       {
         "name": "ESPN4",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espn4"
+        "url": "https://wp9xqedt.fubohd.com:443/espn4/mono.m3u8?token=1efbb9880aa55aa61339ed3e43445b91402cf356-6d-1779779978-1779761978"
       },
       {
         "name": "ESPN4 Movil",
@@ -109,7 +92,7 @@
     "links": [
       {
         "name": "TNT Sports Premium CL",
-        "url": "https://la14hd.com/vivo/canal.php?stream=tntsportschile"
+        "url": "https://rm8zcvk3.fubohd.com:443/tntsportschile/mono.m3u8?token=c27194382e80d28b63f86a9b16cc7cc5d80c0263-a2-1779779979-1779761979"
       },
       {
         "name": "TNT Sports Premium CL Movil",
