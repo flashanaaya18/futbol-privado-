@@ -4,546 +4,539 @@
     "url": "https://www.cablevisionhd.com/tudn-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/tudn.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/1_.m3u8?token=NdCzVA6S0Ri76NF53G_90A&expires=1779835311"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/1_.m3u8?token=9jo7b4UxtCw7S-Fx-UB0UA&expires=1779847316"
   },
   {
     "name": "TNT SPORTS",
     "url": "https://www.cablevisionhd.com/tnt-sports-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/tntsports.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/4_.m3u8?token=71cYw5PJJBagqN5U9engRw&expires=1779835311"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/4_.m3u8?token=xr4mWHH9PaEuBZWb2l8hgg&expires=1779847316"
   },
   {
     "name": "FOX SPORTS PREMIUM",
     "url": "https://www.cablevisionhd.com/fox-sports-premium-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/foxsportspremium.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/12_.m3u8?token=bbwFwIfdn-T5hBw0Y8ixPQ&expires=1779835310"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/12_.m3u8?token=qnZ9FayZdX6Oy1va5LhAsA&expires=1779847316"
   },
   {
     "name": "TYC SPORTS",
     "url": "https://www.cablevisionhd.com/tyc-sports-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/tycsports.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/6_.m3u8?token=8Ar2UBE5mcqEU48D24R36Q&expires=1779835310"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/6_.m3u8?token=jcc6MfSX2o632JgWI1KJeg&expires=1779847316"
   },
   {
     "name": "MOVISTAR DEPORTES",
     "url": "https://www.cablevisionhd.com/movistar-deportes-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/movistardeportes.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/41_.m3u8?token=XqMRl-mcOGfLfpGFd5qK1A&expires=1779835311"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/41_.m3u8?token=l4mELgFsIHYqUTsSHsSJEw&expires=1779847316"
   },
   {
     "name": "MOVISTAR LA LIGA",
     "url": "https://www.cablevisionhd.com/movistar-la-liga-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/movistarlaliga.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/32_.m3u8?token=NNX8A7WrAizjkt1gFBwhbw&expires=1779835311"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/32_.m3u8?token=TB5lrBxY29Qavk8fQ9RxfA&expires=1779847316"
   },
   {
     "name": "MOVISTAR LIGA DE CAMPEONES",
     "url": "https://www.cablevisionhd.com/movistar-la-liga-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/movistarligadecampeones.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/32_.m3u8?token=9aMvXLUU_cQd6E_cWV9EYQ&expires=1779835310"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/32_.m3u8?token=TB5lrBxY29Qavk8fQ9RxfA&expires=1779847316"
   },
   {
     "name": "DAZN F1",
     "url": "https://www.cablevisionhd.com/dazn-f1-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/daznf1.jpg",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/27_.m3u8?token=u0G32OelnRBXR1OIhD_UiQ&expires=1779835310"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/27_.m3u8?token=BAVkOpY4BsMQDfbWhdmEpQ&expires=1779847316"
   },
   {
     "name": "DAZN LA LIGA",
     "url": "https://www.cablevisionhd.com/dazn-la-liga-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/daznlaliga1.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/28_.m3u8?token=2dylQy0c8jv3sHu1noR0pw&expires=1779835313"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/28_.m3u8?token=AvCSxj4SpeOAJWPoNpv3Ow&expires=1779847318"
   },
   {
     "name": "BEIN SPORTS EXTRA",
     "url": "https://www.cablevisionhd.com/bein-sports-extra-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/beinsportsextra.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/31_.m3u8?token=vxC5tBSRDIEm9m0HYIBlmA&expires=1779835313"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/31_.m3u8?token=HT087N_xhdLvzS3AGPgGNQ&expires=1779847318"
   },
   {
     "name": "DIRECTV SPORTS",
     "url": "https://www.cablevisionhd.com/directv-sports-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/directvsports.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/3_.m3u8?token=tPFy2yUsuaUTGeL-kGMdPQ&expires=1779835312"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/3_.m3u8?token=gnOqMG_R3skXFIoCw6tOpQ&expires=1779847318"
   },
   {
     "name": "DIRECTV SPORTS 2",
     "url": "https://www.cablevisionhd.com/directv-sports-2-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/directvsports2.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/7_.m3u8?token=eNJTfafL6tvLrxwU8UmWPg&expires=1779835312"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/7_.m3u8?token=jVJ6Gkwz8pkpUMo0dTmhvg&expires=1779847318"
   },
   {
     "name": "DIRECTV SPORTS PLUS",
     "url": "https://www.cablevisionhd.com/directv-sports-plus-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/directvsportsplus.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/11_.m3u8?token=N_hbj3rkwoy38sWGj224AA&expires=1779835312"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/11_.m3u8?token=3UmmFvbdkVC1LcL8wb3FVw&expires=1779847318"
   },
   {
     "name": "ESPN PREMIUM",
     "url": "https://www.cablevisionhd.com/espn-premium-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espnpremium.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/5_.m3u8?token=LfbzPTgTgnL6aiVIACCqKg&expires=1779835313"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/5_.m3u8?token=MMIAsjs8AOAGSTc2k7j_2A&expires=1779847318"
   },
   {
     "name": "ESPN",
     "url": "https://www.cablevisionhd.com/espn-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espn.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/13_.m3u8?token=DlRh9dQXEnZDLxIE9t3ntw&expires=1779835313"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/13_.m3u8?token=ptv-olBT0GRIsoDDBzaUxw&expires=1779847318"
   },
   {
     "name": "ESPN 2",
     "url": "https://www.cablevisionhd.com/espn-2-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espn2.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/14_.m3u8?token=bESX41679AdyUlwbHdo88g&expires=1779835313"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/14_.m3u8?token=JnhsWvYFSJam1Iby9gKXrw&expires=1779847318"
   },
   {
     "name": "ESPN 3",
     "url": "https://www.cablevisionhd.com/espn-3-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espn3.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/15_.m3u8?token=SicDChc1309IPstcpFrHsQ&expires=1779835314"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/15_.m3u8?token=zAQYI0ec4Qe_lK5WgHR-Lg&expires=1779847320"
   },
   {
     "name": "ESPN 4",
     "url": "https://www.cablevisionhd.com/espn-4-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espn4.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/23_.m3u8?token=MuDqhv8UODIcPynrCsqRlQ&expires=1779835314"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/23_.m3u8?token=PKqI7mULjYkPO8XgFdmc9g&expires=1779847320"
   },
   {
     "name": "ESPN 5",
     "url": "https://www.cablevisionhd.com/espn-5-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espn5.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/24_.m3u8?token=PRIQc-sv_Wuw4SgciwYadw&expires=1779835314"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/24_.m3u8?token=9D4MbUtFblcAvwCv0Y1Rpg&expires=1779847319"
   },
   {
     "name": "ESPN 6",
     "url": "https://www.cablevisionhd.com/espn-6-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espn6.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/25_.m3u8?token=cH5lDpXkJG2aTXhDNG0Peg&expires=1779835314"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/25_.m3u8?token=3d8_vu4M_TCjL5KFSl0YZg&expires=1779847320"
   },
   {
     "name": "ESPN 7",
     "url": "https://www.cablevisionhd.com/espn-7-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espn7.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/26_.m3u8?token=wAuxsDW1-0Cb6KcDIQnBJw&expires=1779835314"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/26_.m3u8?token=YXAoghA8gQNOxuc99vMBRQ&expires=1779847320"
   },
   {
     "name": "ESPN MEXICO",
     "url": "https://www.cablevisionhd.com/espn-mexico-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espn.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/19_.m3u8?token=vPGjgcocfoB3nYhgKstbPA&expires=1779835315"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/19_.m3u8?token=ayd-oUbIPLyjeRPvsURSvg&expires=1779847320"
   },
   {
     "name": "ESPN 2 MEXICO",
     "url": "https://www.cablevisionhd.com/espn-2-mexico-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espn2.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/20_.m3u8?token=rfL139gbsoWjAN6vOehi-w&expires=1779835315"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/20_.m3u8?token=PLlb_yFFQLeZpDUqOnwfJg&expires=1779847320"
   },
   {
     "name": "ESPN 3 MEXICO",
     "url": "https://www.cablevisionhd.com/espn-3-mexico-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/espn3.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/21_.m3u8?token=c4sGcIhIc9Ny2mt4v1QmPg&expires=1779835315"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/21_.m3u8?token=Ix_OAMfOcMllbNRgrsKugA&expires=1779847320"
   },
   {
     "name": "FOX DEPORTES",
     "url": "https://www.cablevisionhd.com/fox-deportes-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/foxdeportes.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/47_.m3u8?token=zrPH93UE_FjbOAENfkf68w&expires=1779835316"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/47_.m3u8?token=6hmW1zvmLQUGbsJ_ip8xmA&expires=1779847321"
   },
   {
     "name": "FOX SPORTS",
     "url": "https://www.cablevisionhd.com/fox-sports-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/foxsports.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/8_.m3u8?token=hr7iX2jebhDwkDaCYJAgPg&expires=1779835316"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/8_.m3u8?token=I8hWdPKLKi2Ch4n_GMASgQ&expires=1779847322"
   },
   {
     "name": "FOX SPORTS 2",
     "url": "https://www.cablevisionhd.com/fox-sports-2-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/foxsports2.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/9_.m3u8?token=XfhnFmV1xq1hoqzM5cdgmA&expires=1779835315"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/9_.m3u8?token=N4v4gr_SFNFMnahmfIpj7g&expires=1779847322"
   },
   {
     "name": "FOX SPORTS 3",
     "url": "https://www.cablevisionhd.com/fox-sports-3-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/foxsports3.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/10_.m3u8?token=RqGILYD4CwrGPPT8ya8uRQ&expires=1779835315"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/10_.m3u8?token=Vi4u86MapEOmCZlK35OT3g&expires=1779847322"
   },
   {
     "name": "FOX SPORTS MEXICO",
     "url": "https://www.cablevisionhd.com/fox-sports-mexico-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/foxsportsmx.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/16_.m3u8?token=cFLXT9V46eQyHrBGh69fjg&expires=1779835316"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/16_.m3u8?token=6NO8A09MA67CivYcwelxiw&expires=1779847322"
   },
   {
     "name": "FOX SPORTS 2 MEXICO",
     "url": "https://www.cablevisionhd.com/fox-sports-2-mexico-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/foxsports2mx.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/17_.m3u8?token=JIIFUipmORZkm9qd_OGltg&expires=1779835316"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/17_.m3u8?token=cUlMRr-fCTkjVpe-v_S6zw&expires=1779847322"
   },
   {
     "name": "FOX SPORTS 3 MEXICO",
     "url": "https://www.cablevisionhd.com/fox-sports-3-mexico-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/foxsports3mexico.webp",
     "group": "home",
-    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/MTcyLjE4Mi4yMjUuMTMx/18_.m3u8?token=GrvYEJl_fhPKcU2CA1sZpw&expires=1779835316"
+    "m3u8": "https://deportes.ksdjugfsddeports.com:9092/NC4yNDYuMTM1LjIwMA==/18_.m3u8?token=x5JY_8mV5xq4JnVgAao1Bw&expires=1779847322"
   },
   {
     "name": "TELEFE",
     "url": "https://www.cablevisionhd.com/telefe-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/telefe.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/3_.m3u8?token=zQ8wFcJyF8Y65u3bmaz-9Q&expires=1779846117"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/3_.m3u8?token=CFJDBm40r3ofxaLpjR_2Lg&expires=1779858123"
   },
   {
     "name": "EL TRECE",
     "url": "https://www.cablevisionhd.com/el-trece-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/eltrece.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/4_.m3u8?token=910EJNarlSFJvZzA7fiYhg&expires=1779846117"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/4_.m3u8?token=THqkXGfKd5HDnG8bzgqCqA&expires=1779858123"
   },
   {
     "name": "TELEMUNDO 51",
     "url": "https://www.cablevisionhd.com/telemundo-51-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/telemundo51.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/6_.m3u8?token=Bls2FyrgdSyxM96ST-9CMg&expires=1779846117"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/6_.m3u8?token=H7tEDHO5k8-5pDunJRk6mQ&expires=1779858124"
   },
   {
     "name": "TELEMUNDO PUERTO RICO",
     "url": "https://www.cablevisionhd.com/telemundo-puerto-rico-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/telemundopuertorico.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/7_.m3u8?token=ZnaZDBpp0PqCIlEDFlfGOw&expires=1779846117"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/7_.m3u8?token=lv_ElEzGVcdCViBy-HiHUQ&expires=1779858123"
   },
   {
     "name": "UNIVISION",
     "url": "https://www.cablevisionhd.com/univision-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/univision.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/9_.m3u8?token=kJhDOKeKjGno4rbTri224Q&expires=1779846117"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/9_.m3u8?token=RIh0ULJ2d0HqG1r6ddNR1Q&expires=1779858124"
   },
   {
     "name": "PASIONES",
     "url": "https://www.cablevisionhd.com/pasiones-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/pasiones.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/10_.m3u8?token=3BbYqrTgZynNJF5qodW88A&expires=1779846118"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/10_.m3u8?token=kj3ejqQR9r0FfiFDn1sl_Q&expires=1779858124"
   },
   {
     "name": "CARACOL",
     "url": "https://www.cablevisionhd.com/caracol-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/caracol.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/17_.m3u8?token=KFjkd75ITC4s3NlOJBY0Pw&expires=1779846118"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/17_.m3u8?token=jk5eBVcRydPve5YBUpLiKw&expires=1779858124"
   },
   {
     "name": "RCN",
     "url": "https://www.cablevisionhd.com/rcn-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/rcn.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/18_.m3u8?token=ekFgktZgUZkWVPJs1kRctw&expires=1779846118"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/18_.m3u8?token=IrfDHx8dS5TuQ5_t8BEOnQ&expires=1779858124"
   },
   {
     "name": "LATINA",
     "url": "https://www.cablevisionhd.com/latina-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/latina.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/19_.m3u8?token=YmUYN4qn-aGj5aPlmVRbcQ&expires=1779846119"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/19_.m3u8?token=ejTnVOosP8AIrWWDYgdn4g&expires=1779858125"
   },
   {
     "name": "AMERICA TV",
     "url": "https://www.cablevisionhd.com/america-tv-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/americatv.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/20_.m3u8?token=PysTh7JLfGlbGyR4HmrRAw&expires=1779846119"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/20_.m3u8?token=uNph7DT-pdZlijCEI2BOQA&expires=1779858125"
   },
   {
     "name": "ATV",
     "url": "https://www.cablevisionhd.com/atv-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/atv.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/23_.m3u8?token=W2MFU1oT2X3DdWupBwn5lQ&expires=1779846119"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/23_.m3u8?token=d2vIhsz5lkyGgTd0VmA46g&expires=1779858125"
   },
   {
     "name": "LAS ESTRELLAS",
     "url": "https://www.cablevisionhd.com/las-estrellas-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/lasestrellas.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/13_.m3u8?token=jbZBG_w8-AIHrXyTEG4GgQ&expires=1779846119"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/13_.m3u8?token=FKYvqqH3QHvgZ0VI2W1Rcg&expires=1779858126"
   },
   {
     "name": "TLNOVELAS",
     "url": "https://www.cablevisionhd.com/tlnovelas-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/tlnovelas.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/12_.m3u8?token=s5b7aP_aOiK_t3hqJ-H6Jw&expires=1779846119"
-  },
-  {
-    "name": "GALAVISION",
-    "url": "https://www.cablevisionhd.com/galavision-en-vivo.php",
-    "logo": "https://www.cablevisionhd.com/imge/galavision.webp",
-    "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/11_.m3u8?token=nKJ-fXANQX40RXRSfPobzg&expires=1779846119"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/12_.m3u8?token=vqQmKgTHvX8ojKyFrYhHrg&expires=1779858126"
   },
   {
     "name": "AZTECA 7",
     "url": "https://www.cablevisionhd.com/azteca-7-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/azteca7.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/1_.m3u8?token=05qjkGEEkNMtW4bQ0dJ2OQ&expires=1779846119"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/1_.m3u8?token=13spmG1B-_pwmHydCfNlAg&expires=1779858126"
   },
   {
     "name": "AZTECA UNO",
     "url": "https://www.cablevisionhd.com/azteca-uno-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/aztecauno.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/26_.m3u8?token=nH2xEsXwuU3WuE8sCE4iHw&expires=1779846119"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/26_.m3u8?token=yO5hY7NV5jxosluVZrQnhg&expires=1779858126"
   },
   {
     "name": "CANAL 5",
     "url": "https://www.cablevisionhd.com/canal-5-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/canal5.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/2_.m3u8?token=OpbZwjWGacWFMyqHPwjh0g&expires=1779846120"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/2_.m3u8?token=pasHyZ3J2FyzzSTSAju7GA&expires=1779858126"
   },
   {
     "name": "CARTOON NETWORK",
     "url": "https://www.cablevisionhd.com/cartoon-network-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/cartoonnetwork.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/31_.m3u8?token=3aLUKYLhL9_nsEbD7lPE-g&expires=1779846120"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/31_.m3u8?token=EAWfwaTzjpNVJoWpSWE3Mw&expires=1779858126"
   },
   {
     "name": "TOONCAST",
     "url": "https://www.cablevisionhd.com/tooncast-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/tooncast.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/32_.m3u8?token=UmM_xXw8hsumrQa126WSmw&expires=1779846121"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/32_.m3u8?token=DjawZKIepDKNx4bPNc4nww&expires=1779858127"
   },
   {
     "name": "DISNEY CHANNEL",
     "url": "https://www.cablevisionhd.com/disney-channel-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/disneychannel.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/28_.m3u8?token=UWQK6Y8o3PFnq77wno-MCw&expires=1779846121"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/28_.m3u8?token=V1Hcb5DN0QDPUB2etEhzUw&expires=1779858127"
   },
   {
     "name": "HISTORY",
     "url": "https://www.cablevisionhd.com/history-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/history.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/44_.m3u8?token=-RGLe_J-92otxszNLjpv6w&expires=1779846121"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/44_.m3u8?token=eP-joRUzYJgp6ENOgq7Z7Q&expires=1779858128"
   },
   {
     "name": "HISTORY 2",
     "url": "https://www.cablevisionhd.com/history-2-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/history2.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/45_.m3u8?token=r4uwZXqSKdHZnm95LcCP_A&expires=1779846121"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/45_.m3u8?token=pw3miG1e7Mh2sLGwWsuieg&expires=1779858128"
   },
   {
     "name": "ANIMAL PLANET",
     "url": "https://www.cablevisionhd.com/animal-planet-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/animalplanet.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/46_.m3u8?token=P2g4qf1WnQuX-qmctLyszA&expires=1779846121"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/46_.m3u8?token=PeFzXZfVcQyi8hhRnW9qtw&expires=1779858128"
   },
   {
     "name": "NAT GEO",
     "url": "https://www.cablevisionhd.com/nat-geo-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/natgeo.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/47_.m3u8?token=C6uKx1_5eNB38AJum1cjZA&expires=1779846121"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/47_.m3u8?token=D8eXeK7iBnE-83W0YkpRqA&expires=1779858128"
   },
   {
     "name": "DISCOVERY CHANNEL",
     "url": "https://www.cablevisionhd.com/discovery-channel-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/discoverychannel.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/37_.m3u8?token=NvLjnJ1x4oo43TyEYFUnGw&expires=1779846122"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/37_.m3u8?token=itunF6jHcGQUvAqmLAE6AQ&expires=1779858128"
   },
   {
     "name": "UNIVERSAL CHANNEL",
     "url": "https://www.cablevisionhd.com/universal-channel-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/universalchannel.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/49_.m3u8?token=1woEIyj91Ytuy-GNrJqlYA&expires=1779846122"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/49_.m3u8?token=O-ZpxVfWK9Lmn4xjbePOIA&expires=1779858128"
   },
   {
     "name": "TNT",
     "url": "https://www.cablevisionhd.com/tnt-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/tnt.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/52_.m3u8?token=yis91cn2LldoyNIKL5Ovrg&expires=1779846122"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/52_.m3u8?token=UTjdoPy5LpcDSeW0FHyhnQ&expires=1779858129"
   },
   {
     "name": "TNT SERIES",
     "url": "https://www.cablevisionhd.com/tnt-series-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/tntseries.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/53_.m3u8?token=pH2zNNaUcrL25JHDAvuYhg&expires=1779846122"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/53_.m3u8?token=jbb7HQCZMXk6Azppmm9XKQ&expires=1779858129"
   },
   {
     "name": "STAR CHANNEL",
     "url": "https://www.cablevisionhd.com/star-channel-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/star.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/54_.m3u8?token=Au1JX4DL34d3oNA6cM3iWQ&expires=1779846122"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/54_.m3u8?token=cGhi_B5G4-8bsnuJsc7AgQ&expires=1779858130"
   },
   {
     "name": "CINEMAX",
     "url": "https://www.cablevisionhd.com/cinemax-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/cinemax.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/55_.m3u8?token=MxErlRaHMkgrPxpXesr0fA&expires=1779846122"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/55_.m3u8?token=5FcztBiNmZ0Ja2zansyvPQ&expires=1779858129"
   },
   {
     "name": "SPACE",
     "url": "https://www.cablevisionhd.com/space-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/space.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/56_.m3u8?token=S6mDamD8xzsp8j364AaAxw&expires=1779846123"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/56_.m3u8?token=CFxhPtNL7E_ab-nUwyRkSw&expires=1779858129"
   },
   {
     "name": "SYFY",
     "url": "https://www.cablevisionhd.com/syfy-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/usa.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/57_.m3u8?token=-l9nww6VwNl7n4dDnNh8Bw&expires=1779846123"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/57_.m3u8?token=fLmptRxojDjvRBxx05Yu7w&expires=1779858130"
   },
   {
     "name": "WARNER CHANNEL",
     "url": "https://www.cablevisionhd.com/warner-bros-tv-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/warner.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/58_.m3u8?token=DA63AkLlmIsbXZMhnbXA4A&expires=1779846123"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/58_.m3u8?token=DdEFl1f5SqEc5u0Dwda_Ng&expires=1779858130"
   },
   {
     "name": "WARNER CHANNEL MEXICO",
     "url": "https://www.cablevisionhd.com/warner-bros-tv-mexico-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/warner.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/58_.m3u8?token=DA63AkLlmIsbXZMhnbXA4A&expires=1779846123"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/58_.m3u8?token=DdEFl1f5SqEc5u0Dwda_Ng&expires=1779858130"
   },
   {
     "name": "CINECANAL",
     "url": "https://www.cablevisionhd.com/cinecanal-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/cinecanal.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/59_.m3u8?token=QZqi1VUSd0q1B71NEH5M-g&expires=1779846124"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/59_.m3u8?token=sgU9D76xxEk_97Ykn0MKUA&expires=1779858130"
   },
   {
     "name": "FX",
     "url": "https://www.cablevisionhd.com/fx-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/fx.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/60_.m3u8?token=JnbLUmLVWAPoBTribrzCUw&expires=1779846124"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/60_.m3u8?token=Zp_B7guOM6EHIZpc846R8A&expires=1779858130"
   },
   {
     "name": "AXN",
     "url": "https://www.cablevisionhd.com/axn-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/axn.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/61_.m3u8?token=GuPxDdZIZHYEVZcBCP38dA&expires=1779846124"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/61_.m3u8?token=DqZqg7eF4V-C2auNaUf9wg&expires=1779858131"
   },
   {
     "name": "AMC",
     "url": "https://www.cablevisionhd.com/amc-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/amc.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/63_.m3u8?token=E1mUVT9BLKI7CPBAlJZQag&expires=1779846124"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/63_.m3u8?token=EouzYCtDMRJY7xANuLLD7Q&expires=1779858131"
   },
   {
     "name": "STUDIO UNIVERSAL",
     "url": "https://www.cablevisionhd.com/studio-universal-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/studiouniversal.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/64_.m3u8?token=_XNTuiJw1voj2kRHxY3QUQ&expires=1779846124"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/64_.m3u8?token=fCo4kIgeKDdtkwqe-Zh51w&expires=1779858131"
   },
   {
     "name": "GOLDEN PLUS",
     "url": "https://www.cablevisionhd.com/golden-plus-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/goldenplus.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/68_.m3u8?token=BRDaNffx8Ucw7Bx6bgb_Yw&expires=1779846124"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/68_.m3u8?token=GOyeyYXlXA1-VO2mojZkew&expires=1779858132"
   },
   {
     "name": "GOLDEN EDGE",
     "url": "https://www.cablevisionhd.com/golden-edge-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/goldenedge.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/69_.m3u8?token=7aeAbPUNbkrWjWc8aV6HQw&expires=1779846125"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/69_.m3u8?token=TTY1AdlR3gq4Gq6hE4VZng&expires=1779858132"
   },
   {
     "name": "GOLDEN PREMIER",
     "url": "https://www.cablevisionhd.com/golden-premier-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/goldenpremier.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/70_.m3u8?token=Ov0CxERV_BQZBZKxVPXl5Q&expires=1779846125"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/70_.m3u8?token=AMI7SneyJyhlOGbL9J99Ew&expires=1779858132"
   },
   {
     "name": "GOLDEN PREMIER 2",
     "url": "https://www.cablevisionhd.com/golden-premier-2-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/goldenpremier2.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/22_.m3u8?token=q1nj2WWOO5IgACEA4-ZKfA&expires=1779846125"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/22_.m3u8?token=KDZ_GxILwEDL2awmsZTZzA&expires=1779858132"
   },
   {
     "name": "MULTIPREMIER",
     "url": "https://www.cablevisionhd.com/multipremier-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/multipremier.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/66_.m3u8?token=TWfdNjBJ1LrLIkcJW7Chzw&expires=1779846125"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/66_.m3u8?token=661UZGTjU3B8AqG4R_vsyg&expires=1779858132"
   },
   {
     "name": "CANAL SONY",
     "url": "https://www.cablevisionhd.com/canal-sony-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/canalsony.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/72_.m3u8?token=0O4OxA4VbRkp4bE3t4LmJQ&expires=1779846126"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/72_.m3u8?token=4LejWpwFfBqLWd-aDHBBFg&expires=1779858132"
   },
   {
     "name": "EXTREMA TV",
     "url": "https://www.cablevisionhd.com/extrema-tv-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/extrematv.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/73_.m3u8?token=o_E4OqwTfh06dWpU_hyzJQ&expires=1779846126"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/73_.m3u8?token=QViyeDiGo8aH6jVXW894NQ&expires=1779858133"
   },
   {
     "name": "DISTRITO COMEDIA",
     "url": "https://www.cablevisionhd.com/distrito-comedia-en-vivo.php",
     "logo": "https://www.cablevisionhd.com/imge/distritocomedia.webp",
     "group": "home",
-    "m3u8": "https://regionales.saohgdasregions.fun:9092/MTcyLjE4Mi4yMjUuMTMx/75_.m3u8?token=1HHQHHUcQ0-FzxBw8am4CA&expires=1779846126"
+    "m3u8": "https://regionales.saohgdasregions.fun:9092/NC4yNDYuMTM1LjIwMA==/75_.m3u8?token=PZ6QEprXIRcVpWkJ7sazZA&expires=1779858133"
   },
   {
     "name": "Solo Eventos",
