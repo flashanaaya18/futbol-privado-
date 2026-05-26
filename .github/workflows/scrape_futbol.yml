@@ -32,10 +32,10 @@ jobs:
       run: |
         python scrape_futbol.py
 
-    - name: Commit and Push matches.json
+    - name: Commit and Push matches.json and futbol.m3u
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions@github.com"
-        git add matches.json
-        # Solo hacer commit si el archivo matches.json cambió
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update matches list" && git push origin main)
+        git add matches.json futbol.m3u
+        # Solo hacer commit si alguno de los archivos cambió
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update matches list and IPTV playlist" && git push origin main)

@@ -224,5 +224,22 @@ def main():
     except Exception as e:
         print(f"❌ Error al escribir archivo JSON: {e}")
 
+    # Guardar localmente como futbol.m3u (Lista IPTV)
+    try:
+        with open('futbol.m3u', 'w', encoding='utf-8') as f:
+            f.write("#EXTM3U\n")
+            for match in matches:
+                title = match.get("title", "Partido")
+                tournament = match.get("tournament", "Fútbol")
+                for link in match.get("links", []):
+                    link_name = link.get("name", "Señal")
+                    link_url = link.get("url", "")
+                    if link_url:
+                        f.write(f'#EXTINF:-1 group-title="{tournament}",{title} ({link_name})\n')
+                        f.write(f'{link_url}\n')
+        print("🎉 Lista IPTV futbol.m3u creada y guardada con éxito localmente.")
+    except Exception as e:
+        print(f"❌ Error al escribir lista IPTV: {e}")
+
 if __name__ == "__main__":
     main()
