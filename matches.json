@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Knicks vs Cavaliers",
+    "tournament": "NBA",
+    "status": "19:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN3",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espn3"
+      },
+      {
+        "name": "ESPN MX",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espnmx"
+      },
+      {
+        "name": "ESPN3 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn3tv.html"
+      },
+      {
+        "name": "ESPN MX MOVIL",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espnmx.1.html"
+      },
+      {
+        "name": "ESPN Deportes",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espndeportes"
+      }
+    ]
+  },
+  {
+    "title": "NBA – Final de Conferencia Este – Juego #4 – Cleveland Cavaliers vs New York Knicks",
+    "tournament": "NBA",
+    "status": "19:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN3",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espn3"
+      },
+      {
+        "name": "ESPN3 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn3tv.html"
+      }
+    ]
+  },
+  {
+    "title": "Coritiba vs Bahia",
+    "tournament": "Brasil",
+    "status": "18:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Premiere BR ",
+        "url": "https://la14hd.com/vivo/canal.php?stream=premiere1"
+      },
+      {
+        "name": "Sportv",
+        "url": "https://la14hd.com/vivo/canales.php?stream=sportv"
+      }
+    ]
+  },
+  {
+    "title": "Real Cartagena vs Envigado | Final 1/2",
+    "tournament": "Colombia",
+    "status": "20:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Win Sports +",
+        "url": "https://la14hd.com/vivo/canal.php?stream=winsportsplus"
+      },
+      {
+        "name": "Win Sports + HD",
+        "url": "https://la14hd.com/vivo/canal.php?stream=winsports2"
+      },
+      {
+        "name": "Win Sports + |  opc3",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/winsports.html"
+      }
+    ]
+  },
+  {
+    "title": "NHL Finales de Conferencia – Juego #3 – Montreal Canadiens vs Carolina Hurricanes",
+    "tournament": "NHL",
+    "status": "19:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN4",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espn4"
+      },
+      {
+        "name": "ESPN4 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn4.2.html"
+      }
+    ]
+  },
+  {
+    "title": "Copiapó vs Unión Española",
+    "tournament": "Chile",
+    "status": "19:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "TNT Sports Premium CL",
+        "url": "https://la14hd.com/vivo/canal.php?stream=tntsportschile"
+      },
+      {
+        "name": "TNT Sports Premium CL Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntchile.html"
+      }
+    ]
+  }
+]
