@@ -8,36 +8,15 @@
     "links": [
       {
         "name": "ESPN",
-        "url": "https://x4bnd7lq.fubohd.com:443/espn/mono.m3u8?token=64aa7791138b8c92c4412c54a1ac8b01ba671194-cf-1780007393-1779989393"
+        "url": "https://wp9xqedt.fubohd.com:443/espn/mono.m3u8?token=18acb2f9d8caefce97b4f894962cbd8750181ba2-24-1780015363-1779997363"
       },
       {
         "name": "Disney+",
-        "url": "https://dw5pdgvk.fubohd.com:443/disney3/mono.m3u8?token=7e0dd9816340ff7ec0d2e347e558d74d8d4950e0-9e-1780007393-1779989393"
+        "url": "https://dw5pdgvk.fubohd.com:443/disney3/mono.m3u8?token=f6b8e0262d97ce94f5bc471ced9cb13b5b27d106-21-1780015363-1779997363"
       },
       {
         "name": "ESPN Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
-      }
-    ]
-  },
-  {
-    "title": "Boca Juniors vs Universidad Católica",
-    "tournament": "Copa Libertadores",
-    "status": "19:30",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "ESPN2",
-        "url": "https://x4bnd7lq.fubohd.com:443/espn2/mono.m3u8?token=a311649ac2105fc8807bd30e996e03fcdcb090df-59-1780007394-1779989394"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://dw5pdgvk.fubohd.com:443/disney6/mono.m3u8?token=026fec81193c7cb23bb1744058fc84d976eb8597-89-1780007394-1779989394"
-      },
-      {
-        "name": "ESPN2 Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn2tv.html"
       }
     ]
   },
@@ -50,11 +29,11 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://ag9wzq.fubohd.com:443/disney7/mono.m3u8?token=55ad021e4e342516a6b013bbbb483c2aa8352b07-cf-1780007395-1779989395"
+        "url": "https://wp9xqedt.fubohd.com:443/disney7/mono.m3u8?token=159ea984a955b331bee696b81df5492f68a47e4a-43-1780015364-1779997364"
       },
       {
         "name": "ESPN7",
-        "url": "https://cgxheq.fubohd.com:443/espn7/mono.m3u8?token=b90da6594ff58ee8b07dd20cabfeb77d9d91ac4c-6-1780007395-1779989395"
+        "url": "https://b2ZmaWNpYWw.fubohd.com:443/espn7/mono.m3u8?token=cb51cac65903e225dc90db262d8955bcb104901f-f2-1780015364-1779997364"
       },
       {
         "name": "ESPN7 Movil",
@@ -71,7 +50,7 @@
     "links": [
       {
         "name": "TNT Sports",
-        "url": "https://agvyby.fubohd.com:443/tntsports/mono.m3u8?token=3db91c8e62e51fd572cc969439bdc850135ecdd1-e7-1780007395-1779989395"
+        "url": "https://b2ZmaWNpYWw.fubohd.com:443/tntsports/mono.m3u8?token=5dfb0ba4afa9784d107eb7f759eb2d45ae377bd5-57-1780015365-1779997365"
       },
       {
         "name": "TNT Sports Movil",
@@ -88,11 +67,36 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://tyg2mnl9.fubohd.com:443/disney1/mono.m3u8?token=53ed484075cf48a288cae447d2df0cdfa3c4332d-b3-1780007396-1779989396"
+        "url": "https://x4bnd7lq.fubohd.com:443/disney1/mono.m3u8?token=56c3218598200067bf6c2dde8055bf29008b8661-34-1780015365-1779997365"
       },
       {
         "name": "FOX Sports 2 USA",
-        "url": "https://ag9wzq.fubohd.com:443/foxsports2_usa/mono.m3u8?token=023bcf5a89bd1046ed3cd218eef4e740f3d23e33-7d-1780007396-1779989396"
+        "url": "https://rm8zcvk3.fubohd.com:443/foxsports2_usa/mono.m3u8?token=5c816188655a081ac9817f5079be9cce72f733a8-62-1780015366-1779997366"
+      }
+    ]
+  },
+  {
+    "title": "Boca Juniors vs Universidad Católica",
+    "tournament": "Copa Libertadores",
+    "status": "19:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN2",
+        "url": "https://c2nvdxq.fubohd.com:443/espn2/mono.m3u8?token=f642a2b727e4947a8cc494adc64b15c7f4a6463a-16-1780015366-1779997366"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://ym9yzq.fubohd.com:443/disney6/mono.m3u8?token=18a8e66d38181fb9862fb4e3cbdc98ddc108d6a3-10-1780015367-1779997367"
+      },
+      {
+        "name": "ESPN2 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn2tv.html"
+      },
+      {
+        "name": "beIN Sports Ñ",
+        "url": "https://anvtcax.fubohd.com:443/beinsportes/mono.m3u8?token=051b06b888ae81d200960cac50173b60430bb745-e6-1780015368-1779997368"
       }
     ]
   },
@@ -105,11 +109,11 @@
     "links": [
       {
         "name": "ESPN2",
-        "url": "https://qzv4jmsc.fubohd.com:443/espn2/mono.m3u8?token=f50a299bdcccd5416eb10b0d1c62ab6761451d89-be-1780007397-1779989397"
+        "url": "https://agvyby.fubohd.com:443/espn2/mono.m3u8?token=def4e8ac70ea96c6f4f565085b92e5e07173d7d8-cf-1780015368-1779997368"
       },
       {
         "name": "Disney+",
-        "url": "https://bGFuZQ.fubohd.com:443/disney2/mono.m3u8?token=e427fe9284c38bea577dcf66882e4254a04f058f-4c-1780007397-1779989397"
+        "url": "https://rm8zcvk3.fubohd.com:443/disney2/mono.m3u8?token=07ecc5e2ab82d273ff78c6cb345646b3e37c3611-b-1780015369-1779997369"
       },
       {
         "name": "ESPN2 Movil",
@@ -126,11 +130,11 @@
     "links": [
       {
         "name": "ESPN",
-        "url": "https://rm8zcvk3.fubohd.com:443/espn/mono.m3u8?token=87d0095e5fde84f7672b00e5221ae466221529e0-70-1780007398-1779989398"
+        "url": "https://YXdlc29tZQ.fubohd.com:443/espn/mono.m3u8?token=ecce9415b4ef3a563cbb58ab4c2dc31686bc7081-3b-1780015369-1779997369"
       },
       {
         "name": "Disney+",
-        "url": "https://YXdlc29tZQ.fubohd.com:443/disney4/mono.m3u8?token=fe934de161b685f8ca8a19b8b9b0ee536f42ba47-84-1780007398-1779989398"
+        "url": "https://aw1wcm92zq.fubohd.com:443/disney4/mono.m3u8?token=5dbbf1bd4dfe04410cdcd5cf8d9317f8d53f9398-64-1780015370-1779997370"
       },
       {
         "name": "ESPN Movil",
@@ -147,11 +151,11 @@
     "links": [
       {
         "name": "ESPN5",
-        "url": "https://agvyby.fubohd.com:443/espn5/mono.m3u8?token=50e28c52478bad595ec52c73947146167ebfd890-69-1780007399-1779989399"
+        "url": "https://cgxheq.fubohd.com:443/espn5/mono.m3u8?token=60757ac0a687c24cc8bac06458e35f8e934dd4f3-fa-1780015370-1779997370"
       },
       {
         "name": "Disney+",
-        "url": "https://rm8zcvk3.fubohd.com:443/disney5/mono.m3u8?token=1d975e949500055ed8b4e61b0145fad324949031-fb-1780007399-1779989399"
+        "url": "https://rm8zcvk3.fubohd.com:443/disney5/mono.m3u8?token=4a9b16061ac2ecf418cc3670a0b9e18fd3e5dfaf-68-1780015371-1779997371"
       },
       {
         "name": "ESPN5 Movil",
@@ -168,7 +172,7 @@
     "links": [
       {
         "name": "FOX Deportes",
-        "url": "https://anvtcax.fubohd.com:443/foxdeportes/mono.m3u8?token=684fec5d44656b943e44ee01afcbd8d6a39191f8-77-1780007399-1779989399"
+        "url": "https://wp9xqedt.fubohd.com:443/foxdeportes/mono.m3u8?token=5b0890c608133b3c8f559187937136bb6512cbdd-a9-1780015371-1779997371"
       },
       {
         "name": "FOX Deportes | Móvil",
@@ -185,7 +189,7 @@
     "links": [
       {
         "name": "TNT Sports",
-        "url": "https://x4bnd7lq.fubohd.com:443/tntsports/mono.m3u8?token=18c430c002c7f25a36eccbb4b931ac4bde5550b0-44-1780007400-1779989400"
+        "url": "https://aw1wcm92zq.fubohd.com:443/tntsports/mono.m3u8?token=0bab0bc1c6ad3c783000d7f7708213cdfa2943bb-25-1780015372-1779997372"
       },
       {
         "name": "TNT Sports Movil",
