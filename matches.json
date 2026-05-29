@@ -8,11 +8,11 @@
     "links": [
       {
         "name": "Dsports+",
-        "url": "https://dw5pdgvk.fubohd.com:443/dsportsplus/mono.m3u8?token=0436b243123c875a96f0b6bbdddb33ff9ccd84e7-7f-1780093172-1780075172"
+        "url": "https://rm8zcvk3.fubohd.com:443/dsportsplus/mono.m3u8?token=368936866ecbb703ff8fb39213334aa707b36187-33-1780101737-1780083737"
       },
       {
         "name": "ESPN3 MX",
-        "url": "https://aw1wcm92zq.fubohd.com:443/espn3mx/mono.m3u8?token=91e4005049d4af20f1360a5d5217738900f024b2-98-1780093172-1780075172"
+        "url": "https://cgxheq.fubohd.com:443/espn3mx/mono.m3u8?token=4ec91da3e18757e9072bad2381230fce750661e1-b1-1780101738-1780083738"
       },
       {
         "name": "Dsports+ Movil",
@@ -29,11 +29,11 @@
     "links": [
       {
         "name": "Win Sports +",
-        "url": "https://wp9xqedt.fubohd.com:443/winsportsplus/mono.m3u8?token=39e892606205a83cbdee636f12eac5b43bd43838-a4-1780093172-1780075172"
+        "url": "https://dw5pdgvk.fubohd.com:443/winsportsplus/mono.m3u8?token=72716a904b3af3b45d9deb505f53da4169d2b384-e7-1780101738-1780083738"
       },
       {
         "name": "Win Sports + HD",
-        "url": "https://dw5pdgvk.fubohd.com:443/winsports2/mono.m3u8?token=9aa74ec1210b72edff7d0dc61c1a50e0564f38f9-34-1780093173-1780075173"
+        "url": "https://wp9xqedt.fubohd.com:443/winsports2/mono.m3u8?token=a8bc8af3379bed3fe1b04007d450177f17514d24-28-1780101739-1780083739"
       },
       {
         "name": "Win Sports + |  opc3",
@@ -41,7 +41,7 @@
       },
       {
         "name": "Win Sports",
-        "url": "https://rm8zcvk3.fubohd.com:443/winsports/mono.m3u8?token=ea8a82d061127c633404847062ed580328af0e8e-85-1780093173-1780075173"
+        "url": "https://ag9wzq.fubohd.com:443/winsports/mono.m3u8?token=0384289de50e5a3671914fad9c37d4489248149b-27-1780101739-1780083739"
       }
     ]
   },
@@ -54,7 +54,7 @@
     "links": [
       {
         "name": "ESPN7",
-        "url": "https://aw1wcm92zq.fubohd.com:443/espn7/mono.m3u8?token=123414c84d69fe8b611ddaf0bf4b0cd6fa7f1556-64-1780093174-1780075174"
+        "url": "https://aw1wcm92zq.fubohd.com:443/espn7/mono.m3u8?token=8ceeed53b52919a8f74bc66ea9ff4f96ca902931-cb-1780101740-1780083740"
       },
       {
         "name": "ESPN7 Movil",
@@ -71,7 +71,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://dw5pdgvk.fubohd.com:443/disney2/mono.m3u8?token=44ab6c9ac5dd3ada94239417d697d8b73d408398-22-1780093174-1780075174"
+        "url": "https://ag9wzq.fubohd.com:443/disney2/mono.m3u8?token=824fb819803c5d8cb421d16b8570c2ac220d3e41-ce-1780101740-1780083740"
       }
     ]
   },
@@ -84,44 +84,32 @@
     "links": [
       {
         "name": "ESPN5",
-        "url": "https://wp9xqedt.fubohd.com:443/espn5/mono.m3u8?token=f0fa1d585b4c2dcac964e41f5f854bb26459d334-7f-1780093174-1780075174"
+        "url": "https://anvtcax.fubohd.com:443/espn5/mono.m3u8?token=32732450c699e95e684cf45713821afb1012d341-28-1780101740-1780083740"
       },
       {
         "name": "Disney+",
-        "url": "https://c2nvdxq.fubohd.com:443/disney1/mono.m3u8?token=2e6144a27e7c97289c2d65860123cf32e0d430e9-9c-1780093175-1780075175"
+        "url": "https://tyg2mnl9.fubohd.com:443/disney1/mono.m3u8?token=30a5bc51d84e600fa4c4e1862a45bd14c0065795-2f-1780101741-1780083741"
       },
       {
         "name": "ESPN5 Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn5tv.html"
+      },
+      {
+        "name": "beIN Sports Ñ",
+        "url": "https://agvyby.fubohd.com:443/beinsportes/mono.m3u8?token=fecd8126e9821f5d8c313e91aade73898389c872-1d-1780101741-1780083741"
       }
     ]
   },
   {
-    "title": "Sorteo Octavos de Final: Copa Libertadores y Copa Sudamericana",
-    "tournament": "Conmebol",
-    "status": "10:00",
+    "title": "Colombia vs Costa Rica",
+    "tournament": "Amistoso Paises",
+    "status": "15:00",
     "homeLogo": null,
     "awayLogo": null,
     "links": [
       {
-        "name": "Disney+",
-        "url": "https://YXdlc29tZQ.fubohd.com:443/disney1/mono.m3u8?token=677cac7b79126cae9954c83da4895d8bd547cd86-73-1780093175-1780075175"
-      },
-      {
-        "name": "ESPN",
-        "url": "https://qzv4jmsc.fubohd.com:443/espn/mono.m3u8?token=07318e21ad761fffe0c6a84ab1ff2579b4afc75a-84-1780093176-1780075176"
-      },
-      {
-        "name": "Dsports",
-        "url": "https://c2nvdxq.fubohd.com:443/dsports/mono.m3u8?token=678eb57f63fde9a642d2d486ad0bfacf50c862f3-3f-1780093176-1780075176"
-      },
-      {
-        "name": "Dsports Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/directvperu.html"
-      },
-      {
-        "name": "ESPN Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
+        "name": "Eventos",
+        "url": "https://c2nvdxq.fubohd.com:443/eventos10/mono.m3u8?token=1f9ff13c0ec00bf481478ca430ec8bf8ec95fdfb-c4-1780101742-1780083742"
       }
     ]
   },
@@ -134,7 +122,7 @@
     "links": [
       {
         "name": "Liga1max",
-        "url": "https://b2ZmaWNpYWw.fubohd.com:443/liga1max/mono.m3u8?token=2e706275c42fa19a90579d51de5aba631337359c-e1-1780093176-1780075176"
+        "url": "https://YXdlc29tZQ.fubohd.com:443/liga1max/mono.m3u8?token=b09341f1c96689c09fea6f5e2b2bf15793df7cfe-a7-1780101742-1780083742"
       },
       {
         "name": "Liga1max Movil",
@@ -151,7 +139,7 @@
     "links": [
       {
         "name": "TNT Sports Premium CL",
-        "url": "https://ym9yzq.fubohd.com:443/tntsportschile/mono.m3u8?token=481c1eb2ef1bf22a41f2015b402ae398e0a2ebcc-3c-1780093177-1780075177"
+        "url": "https://ag9wzq.fubohd.com:443/tntsportschile/mono.m3u8?token=31d20cbc83056d7dca9ee4d1e1458c6ce2d158b1-d-1780101742-1780083742"
       },
       {
         "name": "TNT Sports Premium CL Movil",
@@ -168,7 +156,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://rm8zcvk3.fubohd.com:443/disney2/mono.m3u8?token=b94ce7a0b3ba661d1edcd48414f601115ea599d7-78-1780093177-1780075177"
+        "url": "https://anvtcax.fubohd.com:443/disney2/mono.m3u8?token=24d0e5e7d3a664482e7f29de0e85d9c9bed3b543-e-1780101743-1780083743"
       }
     ]
   },
@@ -181,7 +169,7 @@
     "links": [
       {
         "name": "TNT Sports Premium CL",
-        "url": "https://aw1wcm92zq.fubohd.com:443/tntsportschile/mono.m3u8?token=936cb110fa12df325d620bc07cbe8baf8069e392-d-1780093178-1780075178"
+        "url": "https://YXdlc29tZQ.fubohd.com:443/tntsportschile/mono.m3u8?token=a261d5d9dfcaf61cad27f2bd0b8de9bb7709fa54-59-1780101743-1780083743"
       },
       {
         "name": "TNT Sports Premium CL Movil",
