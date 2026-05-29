@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "title": "Monza vs Catanzaro",
+    "tournament": "Italia",
+    "status": "13:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Dsports+",
+        "url": "https://agvyby.fubohd.com:443/dsportsplus/mono.m3u8?token=724c5f59bb32db7810741ebc86dda6238a8c911c-80-1780079477-1780061477"
+      },
+      {
+        "name": "ESPN3 MX",
+        "url": "https://qzv4jmsc.fubohd.com:443/espn3mx/mono.m3u8?token=f17488a4aa01dd2415cddfa9b619b8098df00aff-5b-1780079478-1780061478"
+      },
+      {
+        "name": "Dsports+ Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/dsportsplus.html"
+      }
+    ]
+  },
+  {
+    "title": "Envigado vs Real Cartagena | Final (2/2)",
+    "tournament": "Colombia",
+    "status": "15:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Win Sports +",
+        "url": "https://x4bnd7lq.fubohd.com:443/winsportsplus/mono.m3u8?token=a00d7f283dfe4e35983bb001b3910d1b6d670248-8b-1780079478-1780061478"
+      },
+      {
+        "name": "Win Sports + HD",
+        "url": "https://wp9xqedt.fubohd.com:443/winsports2/mono.m3u8?token=7068d527dfbff128ea74f24604d194564321e0fa-c5-1780079479-1780061479"
+      },
+      {
+        "name": "Win Sports + |  opc3",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/winsports.html"
+      },
+      {
+        "name": "Win Sports",
+        "url": "https://tyg2mnl9.fubohd.com:443/winsports/mono.m3u8?token=cca0e861941bb5215c07ae0949179e28cf6970bb-81-1780079479-1780061479"
+      }
+    ]
+  },
+  {
+    "title": "MLB – New York Mets vs Miami Marlins",
+    "tournament": "MLB",
+    "status": "18:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN7",
+        "url": "https://a2vlca.fubohd.com:443/espn7/mono.m3u8?token=63e5d5d428e8ccbb5ddf6d71a6c3a107093e0cc4-97-1780079480-1780061480"
+      },
+      {
+        "name": "ESPN7 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn7tv.html"
+      }
+    ]
+  },
+  {
+    "title": "Bosnia-Herzegovina vs Macedonia del Norte",
+    "tournament": "Amistoso Paises",
+    "status": "13:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Disney+",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/disney2/mono.m3u8?token=0e50de3affd366c970f2066ad93054553c9b8b62-f6-1780079480-1780061480"
+      }
+    ]
+  },
+  {
+    "title": "Nice vs Saint-Étienne",
+    "tournament": "Francia",
+    "status": "13:45",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN5",
+        "url": "https://c2nvdxq.fubohd.com:443/espn5/mono.m3u8?token=15c1474c400dfeaf8239178fc98e0bf6ca8624be-16-1780079480-1780061480"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://qzv4jmsc.fubohd.com:443/disney1/mono.m3u8?token=05e708f7ad1fd4eead646c63151dbb17a9de7c46-22-1780079481-1780061481"
+      },
+      {
+        "name": "ESPN5 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn5tv.html"
+      }
+    ]
+  },
+  {
+    "title": "Sorteo Octavos de Final: Copa Libertadores y Copa Sudamericana",
+    "tournament": "Conmebol",
+    "status": "10:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Disney+",
+        "url": "https://agvyby.fubohd.com:443/disney1/mono.m3u8?token=fea2b4840ac5d03b43b1e25a0db6deb4b0755fab-e0-1780079481-1780061481"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://qzv4jmsc.fubohd.com:443/espn/mono.m3u8?token=362c0570f86a01bdb1739e16133feb480bd012ff-41-1780079482-1780061482"
+      },
+      {
+        "name": "Dsports",
+        "url": "https://a2vlca.fubohd.com:443/dsports/mono.m3u8?token=571642dcfa577b86fbcd119e93b7c0637a1cc59e-f7-1780079482-1780061482"
+      },
+      {
+        "name": "Dsports Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/directvperu.html"
+      },
+      {
+        "name": "ESPN Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
+      }
+    ]
+  },
+  {
+    "title": "Atlético Grau vs Deportivo Moquegua",
+    "tournament": "Perú",
+    "status": "15:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Liga1max",
+        "url": "https://bGFuZQ.fubohd.com:443/liga1max/mono.m3u8?token=949877a5c21c5f96e5d91dc84c6186c287d1f9fd-50-1780079483-1780061483"
+      },
+      {
+        "name": "Liga1max Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/ligaperu.html"
+      }
+    ]
+  },
+  {
+    "title": "Cobresal vs Ñublense",
+    "tournament": "Chile",
+    "status": "17:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "TNT Sports Premium CL",
+        "url": "https://bGFuZQ.fubohd.com:443/tntsportschile/mono.m3u8?token=8181e15dfde13e9488f1bbabf68d3325c6bfd6e4-7f-1780079483-1780061483"
+      },
+      {
+        "name": "TNT Sports Premium CL Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntchile.html"
+      }
+    ]
+  },
+  {
+    "title": "Cerro Largo vs Cerro",
+    "tournament": "Uruguay",
+    "status": "17:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Disney+",
+        "url": "https://ym9yzq.fubohd.com:443/disney2/mono.m3u8?token=701a0438272b523ab55a45bd08842a1ac91d7916-c4-1780079484-1780061484"
+      }
+    ]
+  },
+  {
+    "title": "Univ. Concepción vs Unión La Calera",
+    "tournament": "Chile",
+    "status": "19:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "TNT Sports Premium CL",
+        "url": "https://c2nvdxq.fubohd.com:443/tntsportschile/mono.m3u8?token=54325bdd2ed9018ee3bdea00a5a8f3a593693b25-f3-1780079484-1780061484"
+      },
+      {
+        "name": "TNT Sports Premium CL Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntchile.html"
+      }
+    ]
+  }
+]
