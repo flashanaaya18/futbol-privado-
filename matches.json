@@ -8,11 +8,11 @@
     "links": [
       {
         "name": "ESPN2",
-        "url": "https://tyg2mnl9.fubohd.com:443/espn2/mono.m3u8?token=3e8c2edae77de26e8a3bd28b6483481fefcd35d1-23-1780028903-1780010903"
+        "url": "https://wp9xqedt.fubohd.com:443/espn2/mono.m3u8?token=9bfd7f606407afb6c21ff6cb227165415947fd2e-de-1780036417-1780018417"
       },
       {
         "name": "Disney+",
-        "url": "https://wp9xqedt.fubohd.com:443/disney6/mono.m3u8?token=1a4a6fba580c5a3b4d85baf81d20d525ef7044ec-b3-1780028903-1780010903"
+        "url": "https://ym9yzq.fubohd.com:443/disney6/mono.m3u8?token=b018424b95d9baaa42267e2dd48f3dafc1ba9646-7b-1780036418-1780018418"
       },
       {
         "name": "ESPN2 Movil",
@@ -20,11 +20,11 @@
       },
       {
         "name": "Fox Sports ",
-        "url": "https://agvyby.fubohd.com:443/foxsports/mono.m3u8?token=7e8f0fe77d5dce8b22b89942abd7fdbb42cd0e74-ea-1780028904-1780010904"
+        "url": "https://YXdlc29tZQ.fubohd.com:443/foxsports/mono.m3u8?token=a3460415443215a22d4ec2fbf207d1bdc91b1091-6-1780036418-1780018418"
       },
       {
         "name": "beIN Sports Ñ",
-        "url": "https://YXdlc29tZQ.fubohd.com:443/beinsportes/mono.m3u8?token=2a0e266230a7a79e60b0379a009c93aa91f4fce0-49-1780028904-1780010904"
+        "url": "https://qzv4jmsc.fubohd.com:443/beinsportes/mono.m3u8?token=af3217ddff0d30a02a6b4ea20fe24493a7cd43ba-5e-1780036418-1780018418"
       }
     ]
   },
@@ -37,11 +37,11 @@
     "links": [
       {
         "name": "ESPN7",
-        "url": "https://ym9yzq.fubohd.com:443/espn7/mono.m3u8?token=e1aa00ec713b5cd9e91da3c77f9c583d24728938-d4-1780028905-1780010905"
+        "url": "https://ym9yzq.fubohd.com:443/espn7/mono.m3u8?token=7cb7b5ff221d3dd2ba5a712ae9aa7f658cca211d-b1-1780036419-1780018419"
       },
       {
         "name": "Disney+",
-        "url": "https://dw5pdgvk.fubohd.com:443/disney7/mono.m3u8?token=fae095992aafac92a558f6fe14bbbf8fa39f8bc7-bf-1780028905-1780010905"
+        "url": "https://dw5pdgvk.fubohd.com:443/disney7/mono.m3u8?token=2f541e6c72d3bf2f2fadc962b09cf3176b53012e-dc-1780036419-1780018419"
       },
       {
         "name": "ESPN7 Movil",
@@ -49,7 +49,7 @@
       },
       {
         "name": "Fox Sports 2",
-        "url": "https://wp9xqedt.fubohd.com:443/foxsports2/mono.m3u8?token=dd384a90e9ef448a70f6293ea28a3707be9cea83-a3-1780028906-1780010906"
+        "url": "https://anvtcax.fubohd.com:443/foxsports2/mono.m3u8?token=12f54295356e143250a95898bea0af9e0180b24d-5-1780036420-1780018420"
       }
     ]
   },
@@ -62,44 +62,11 @@
     "links": [
       {
         "name": "ESPN4",
-        "url": "https://agvyby.fubohd.com:443/espn4/mono.m3u8?token=46e773231220f1ad538f6d8423cac09a03f69b87-64-1780028907-1780010907"
+        "url": "https://b2ZmaWNpYWw.fubohd.com:443/espn4/mono.m3u8?token=db4fd7774a48dddb3ad48f5a5b6c916d4ada1271-8f-1780036420-1780018420"
       },
       {
         "name": "ESPN4 Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn4.2.html"
-      }
-    ]
-  },
-  {
-    "title": "Palmeiras vs Junior",
-    "tournament": "Copa Libertadores",
-    "status": "17:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "ESPN",
-        "url": "https://c2nvdxq.fubohd.com:443/espn/mono.m3u8?token=8d8fb31b7af177e729f9bada899340a1c32c1f00-ef-1780028907-1780010907"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://ym9yzq.fubohd.com:443/disney3/mono.m3u8?token=9a660ea62a3e4464a2443245847cc563bc1ad282-db-1780028908-1780010908"
-      },
-      {
-        "name": "ESPN Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
-      },
-      {
-        "name": "Fox Sports 2",
-        "url": "https://bGFuZQ.fubohd.com:443/foxsports2/mono.m3u8?token=05b0b3b3b5bf40c1c905b03486af9a689b517f05-40-1780028908-1780010908"
-      },
-      {
-        "name": "beIN Sports Ñ",
-        "url": "https://x4bnd7lq.fubohd.com:443/beinsportes/mono.m3u8?token=052f79cf6ac161ae1bdd239c66d2ef01d8612188-3c-1780028909-1780010909"
-      },
-      {
-        "name": "ESPN2 MX",
-        "url": "https://x4bnd7lq.fubohd.com:443/espn2mx/mono.m3u8?token=7052ed510458526a4d415d7c0f671251f5e54a6f-ae-1780028909-1780010909"
       }
     ]
   },
@@ -112,11 +79,11 @@
     "links": [
       {
         "name": "ESPN",
-        "url": "https://bGFuZQ.fubohd.com:443/espn/mono.m3u8?token=c766a4abe45928932bee98e28fe9e30f08fe13ab-6c-1780028910-1780010910"
+        "url": "https://anvtcax.fubohd.com:443/espn/mono.m3u8?token=1d87ce92fdb782cf55d8378e7523cc282a15d377-5d-1780036421-1780018421"
       },
       {
         "name": "Disney+",
-        "url": "https://c2nvdxq.fubohd.com:443/disney4/mono.m3u8?token=f976b4edc4caf687ba453f948429131f68572637-e8-1780028911-1780010911"
+        "url": "https://dw5pdgvk.fubohd.com:443/disney4/mono.m3u8?token=f4f78cf1a16c94968bc8c62a169f9e39e5580dbe-92-1780036421-1780018421"
       },
       {
         "name": "ESPN Movil",
@@ -133,57 +100,15 @@
     "links": [
       {
         "name": "ESPN5",
-        "url": "https://rm8zcvk3.fubohd.com:443/espn5/mono.m3u8?token=7582a6ab28cc2dcc4e52bb4bdd0de8187fc9f77e-18-1780028911-1780010911"
+        "url": "https://a2vlca.fubohd.com:443/espn5/mono.m3u8?token=ef61bb6733bc39f53d04cb1fd8024fffffa432d0-f5-1780036421-1780018421"
       },
       {
         "name": "Disney+",
-        "url": "https://rm8zcvk3.fubohd.com:443/disney5/mono.m3u8?token=28a7c1addb6acfc8a9f3e27acf994d1d4c988e43-c8-1780028912-1780010912"
+        "url": "https://ag9wzq.fubohd.com:443/disney5/mono.m3u8?token=8f39042c7ee4b2f746f40a5ebdf2f95a6e23bd50-cc-1780036422-1780018422"
       },
       {
         "name": "ESPN5 Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn5tv.html"
-      }
-    ]
-  },
-  {
-    "title": "River Plate vs San Lorenzo",
-    "tournament": "Argentina",
-    "status": "17:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "TNT Sports",
-        "url": "https://a2vlca.fubohd.com:443/tntsports/mono.m3u8?token=4f80fae21a3abd4df8e5ec6957cae56211bd7991-ed-1780028912-1780010912"
-      },
-      {
-        "name": "TNT Sports Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntsports2.html"
-      }
-    ]
-  },
-  {
-    "title": "Cerro Porteño vs Sporting Cristal",
-    "tournament": "Copa Libertadores",
-    "status": "17:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "ESPN2",
-        "url": "https://agvyby.fubohd.com:443/espn2/mono.m3u8?token=838de90c40512c0ba86a6acbed5acd767f5d57dc-db-1780028913-1780010913"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://agvyby.fubohd.com:443/disney2/mono.m3u8?token=bb9e43bde67c7f80aff55330cb03c3ef856b11ac-ed-1780028913-1780010913"
-      },
-      {
-        "name": "ESPN2 Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn2tv.html"
-      },
-      {
-        "name": "Fox Sports 3",
-        "url": "https://rm8zcvk3.fubohd.com:443/foxsports3/mono.m3u8?token=f3723fd199931b480bcdb1be69be6020fa4ba113-ed-1780028914-1780010914"
       }
     ]
   },
@@ -196,11 +121,11 @@
     "links": [
       {
         "name": "Win Sports +",
-        "url": "https://bGFuZQ.fubohd.com:443/winsportsplus/mono.m3u8?token=f502103a3239496350b3d64e0a0835944e7b34a3-ba-1780028914-1780010914"
+        "url": "https://aw1wcm92zq.fubohd.com:443/winsportsplus/mono.m3u8?token=8a690c9b1a2706d05221a77c9fe0fb94f1288782-da-1780036422-1780018422"
       },
       {
         "name": "Win Sports + HD",
-        "url": "https://ym9yzq.fubohd.com:443/winsports2/mono.m3u8?token=1f531e4013d504df8756e124ffd29a6b69b5f062-20-1780028915-1780010915"
+        "url": "https://x4bnd7lq.fubohd.com:443/winsports2/mono.m3u8?token=43c37913ff95ad6bc0f1128dc66c68b6724e95de-16-1780036423-1780018423"
       },
       {
         "name": "Win Sports + |  opc3",
