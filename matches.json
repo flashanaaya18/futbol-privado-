@@ -1,31 +1,5 @@
 [
   {
-    "title": "Athletico-PR vs Mirassol",
-    "tournament": "Brasil",
-    "status": "14:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Fanatiz02",
-        "url": "https://aw1wcm92zq.fubohd.com:443/fanatiz2/mono.m3u8?token=ebdb403e0b693fc0fe302c4f3cd443de2ef8cce0-1d-1780188895-1780170895"
-      }
-    ]
-  },
-  {
-    "title": "Paysandu vs Cerrito",
-    "tournament": "Brasil",
-    "status": "14:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://aw1wcm92zq.fubohd.com:443/disney8/mono.m3u8?token=ad43145646b80eed2a1b8be232b10acf309787f4-e1-1780188896-1780170896"
-      }
-    ]
-  },
-  {
     "title": "Bahia vs Botafogo",
     "tournament": "Brasil",
     "status": "15:30",
@@ -34,15 +8,15 @@
     "links": [
       {
         "name": "Premiere 2 BR ",
-        "url": "https://YXdlc29tZQ.fubohd.com:443/premiere2/mono.m3u8?token=2da69b045e62088db6b7a7dd402ac3d8dba7ea6c-80-1780188897-1780170897"
+        "url": "https://ym9yzq.fubohd.com:443/premiere2/mono.m3u8?token=52c830f2e1612f463a55773ae53e1b6d39e3e881-c2-1780192797-1780174797"
       },
       {
         "name": "Fanatiz04",
-        "url": "https://rm8zcvk3.fubohd.com:443/fanatiz4/mono.m3u8?token=7d6e6511d6e6c2206e681f2a2c9ff35d6a08548f-e9-1780188897-1780170897"
+        "url": "https://anvtcax.fubohd.com:443/fanatiz4/mono.m3u8?token=406749d90746c2b6a6d29a5bc2bdc0c84126a854-ab-1780192798-1780174798"
       },
       {
         "name": "Fanatiz05",
-        "url": "https://ym9yzq.fubohd.com:443/fanatiz5/mono.m3u8?token=352970426227ddd6039240a01f0c97d6603932b8-70-1780188898-1780170898"
+        "url": "https://cgxheq.fubohd.com:443/fanatiz5/mono.m3u8?token=09ae04d7f9ae5931193d3fcde8f2efc8c3d15703-3c-1780192798-1780174798"
       }
     ]
   },
@@ -55,11 +29,75 @@
     "links": [
       {
         "name": "TyC Sports",
-        "url": "https://wp9xqedt.fubohd.com:443/tycsports/mono.m3u8?token=aa9687b2267851502d5e41e8459f853736d153d8-f8-1780188898-1780170898"
+        "url": "https://bGFuZQ.fubohd.com:443/tycsports/mono.m3u8?token=dd20c140c3a121a76532ed5924dc76e52b26e567-93-1780192799-1780174799"
       },
       {
         "name": "TyC Sports Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tycsportsarg.html"
+      }
+    ]
+  },
+  {
+    "title": "Paysandu vs Cerrito",
+    "tournament": "Uruguay",
+    "status": "14:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Disney+",
+        "url": "https://a2vlca.fubohd.com:443/disney8/mono.m3u8?token=cbfe48b75536d6872326442588f8b78d2d8f7567-78-1780192799-1780174799"
+      }
+    ]
+  },
+  {
+    "title": "Athletico-PR vs Mirassol",
+    "tournament": "Brasil",
+    "status": "14:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Fanatiz02",
+        "url": "https://aw1wcm92zq.fubohd.com:443/fanatiz2/mono.m3u8?token=dc5b689d3eb0972c73c979122f3af3b63e329aba-0-1780192800-1780174800"
+      },
+      {
+        "name": "Premiere 4 BR",
+        "url": "https://agvyby.fubohd.com:443/premiere4/mono.m3u8?token=c67703301a3baf974b174a9266c92e2a959d6d1d-81-1780192800-1780174800"
+      }
+    ]
+  },
+  {
+    "title": "Deportivo Colonia vs Miramar Misiones",
+    "tournament": "Uruguay",
+    "status": "17:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Disney+",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/disney9/mono.m3u8?token=f7c8f0b6ba44db21acf8b7a7e2a1968d284069c9-7a-1780192801-1780174801"
+      }
+    ]
+  },
+  {
+    "title": "Santos vs Vitória",
+    "tournament": "Brasil",
+    "status": "18:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Fanatiz08",
+        "url": "https://aw1wcm92zq.fubohd.com:443/fanatiz8/mono.m3u8?token=47740f8ffdce80a91b5ad226f9a5548bceb19a04-45-1780192801-1780174801"
+      },
+      {
+        "name": "Sportv",
+        "url": "https://cgxheq.fubohd.com:443/sportv/mono.m3u8?token=c0472238095310308f20d82af72c3a234758c911-8f-1780192802-1780174802"
+      },
+      {
+        "name": "Premiere BR ",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/premiere1/mono.m3u8?token=3e4ed7739346b65c7e19035aa9f7a59c289039ec-a1-1780192802-1780174802"
       }
     ]
   },
@@ -72,7 +110,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://ym9yzq.fubohd.com:443/disney6/mono.m3u8?token=d7f6d82c04a98fabc38b4f1e54eef3d403bc76e8-f9-1780188899-1780170899"
+        "url": "https://a2vlca.fubohd.com:443/disney6/mono.m3u8?token=3f0463d5cba314c225a4926dadb2a0852ec0bd44-68-1780192803-1780174803"
       }
     ]
   },
@@ -85,7 +123,7 @@
     "links": [
       {
         "name": "TyC Sports",
-        "url": "https://agvyby.fubohd.com:443/tycsports/mono.m3u8?token=94d85a7f561ffb7ac65ab08e78bf433a25abcfd6-2e-1780188899-1780170899"
+        "url": "https://bGFuZQ.fubohd.com:443/tycsports/mono.m3u8?token=dda6c399058e7b521671aa2b67a462f905c65f6e-d8-1780192803-1780174803"
       },
       {
         "name": "TyC Sports Movil",
@@ -102,7 +140,7 @@
     "links": [
       {
         "name": "Premiere BR ",
-        "url": "https://tyg2mnl9.fubohd.com:443/premiere1/mono.m3u8?token=bc64457ca83ea11035a966ae9b4af004a9e9b0a2-21-1780188900-1780170900"
+        "url": "https://c2nvdxq.fubohd.com:443/premiere1/mono.m3u8?token=fd8589d740e99ca74894c3e481c4ad50ca8bb1e7-c2-1780192804-1780174804"
       }
     ]
   },
@@ -115,7 +153,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://wp9xqedt.fubohd.com:443/disney7/mono.m3u8?token=85a131a0cf14a8dd11448f1447620d8843c099d4-c1-1780188900-1780170900"
+        "url": "https://wp9xqedt.fubohd.com:443/disney7/mono.m3u8?token=13bcbc8c01d8b185f5e993d934bdf7300fd2af6a-78-1780192804-1780174804"
       }
     ]
   },
@@ -128,7 +166,7 @@
     "links": [
       {
         "name": "Liga1max",
-        "url": "https://ag9wzq.fubohd.com:443/liga1max/mono.m3u8?token=d7883ae00be82aeff3315140794f39df17120e1b-7b-1780188901-1780170901"
+        "url": "https://YXdlc29tZQ.fubohd.com:443/liga1max/mono.m3u8?token=5cf84c217e11ca208f24b82717f5805614bbd171-3a-1780192805-1780174805"
       },
       {
         "name": "Liga1max Movil",
@@ -145,11 +183,11 @@
     "links": [
       {
         "name": "Premiere 3 BR ",
-        "url": "https://tyg2mnl9.fubohd.com:443/premiere3/mono.m3u8?token=d1c4162fdea4abd700c7c4583bcfcd9eaa4c66d8-c4-1780188901-1780170901"
+        "url": "https://b2ZmaWNpYWw.fubohd.com:443/premiere3/mono.m3u8?token=a693864c4f5db5b09695199f158f617c37769637-e0-1780192806-1780174806"
       },
       {
         "name": "Fanatiz06",
-        "url": "https://c2nvdxq.fubohd.com:443/fanatiz6/mono.m3u8?token=5bdf12171760fd31d1f2c41d6a232d11fbf2f10e-cd-1780188902-1780170902"
+        "url": "https://rm8zcvk3.fubohd.com:443/fanatiz6/mono.m3u8?token=35bc6d0ff57ba1c170a2d12fa2dde5abe7db0dd6-a6-1780192806-1780174806"
       }
     ]
   },
@@ -162,11 +200,53 @@
     "links": [
       {
         "name": "TNT Sports Premium CL",
-        "url": "https://a2vlca.fubohd.com:443/tntsportschile/mono.m3u8?token=9a6a35ea02abf5a9f1ce2b231904da0f2bcedabd-a6-1780188902-1780170902"
+        "url": "https://qzv4jmsc.fubohd.com:443/tntsportschile/mono.m3u8?token=b7b8aa01fcf0e58d1524adbb2781c34bb7c4d7e7-d0-1780192806-1780174806"
       },
       {
         "name": "TNT Sports Premium CL Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntchile.html"
+      },
+      {
+        "name": "MAX",
+        "url": "https://rm8zcvk3.fubohd.com:443/max2/mono.m3u8?token=94f2e8c59893c036ea12ebbbe3a8ada003a71725-fd-1780192807-1780174807"
+      }
+    ]
+  },
+  {
+    "title": "Universidad Chile vs Deportes Concepción",
+    "tournament": "Chile",
+    "status": "16:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "TNT Sports Premium CL",
+        "url": "https://x4bnd7lq.fubohd.com:443/tntsportschile/mono.m3u8?token=7f9bed558868a65acb6bc0da5702e7728321a10f-f9-1780192808-1780174808"
+      },
+      {
+        "name": "MAX",
+        "url": "https://anvtcax.fubohd.com:443/max1/mono.m3u8?token=5da4dd65a45fd375961d42cc1cb13ca2b450a058-d7-1780192808-1780174808"
+      },
+      {
+        "name": "TNT Sports Premium CL Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntchile.html"
+      }
+    ]
+  },
+  {
+    "title": "Sport Boys vs Comerciantes Unidos",
+    "tournament": "Perú",
+    "status": "17:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Liga1max",
+        "url": "https://ag9wzq.fubohd.com:443/liga1max/mono.m3u8?token=0015c38fac48d9da55dfb1a91e24c48a3580079e-e9-1780192809-1780174809"
+      },
+      {
+        "name": "Liga1max Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/ligaperu.html"
       }
     ]
   }
