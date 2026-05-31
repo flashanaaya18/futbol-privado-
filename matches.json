@@ -1,34 +1,5 @@
 [
   {
-    "title": "EE. UU. vs Senegal",
-    "tournament": "Amistoso Paises",
-    "status": "14:30",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://anvtcax.fubohd.com:443/disney13/mono.m3u8?token=c5a571b87d643c1e731ffe9ec9c507b10769c173-89-1780283852-1780265852"
-      },
-      {
-        "name": "ESPN MX",
-        "url": "https://rm8zcvk3.fubohd.com:443/espnmx/mono.m3u8?token=df215253ef0929be6d676bf8595928362ff8708a-7-1780283852-1780265852"
-      },
-      {
-        "name": "ESPN MX MOVIL",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espnmx.1.html"
-      },
-      {
-        "name": "Universo 2",
-        "url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbCh1bml2ZXJzby1lYXN0KS9tYXN0ZXIubXBk&k=OTZiNjdmYTA5MTQwMzI5YTg5YjdhMWVhZDEzNGVkYTM6YzYxOGQzMmM1NmNkYzZjYWQ4MzMwZWI5ODUwN2NhM2Y="
-      },
-      {
-        "name": "Telemundo 2",
-        "url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-      }
-    ]
-  },
-  {
     "title": "O'Higgins vs Everton",
     "tournament": "Chile",
     "status": "16:30",
@@ -37,7 +8,7 @@
     "links": [
       {
         "name": "TNT Sports Premium CL",
-        "url": "https://tyg2mnl9.fubohd.com:443/tntsportschile/mono.m3u8?token=0cd033cba1a16c03080fad09b2ffc8e5c9604a0f-ee-1780283854-1780265854"
+        "url": "https://aw1wcm92zq.fubohd.com:443/tntsportschile/mono.m3u8?token=aa3934171b09e189e65ad707fc1255d3ea3625d7-96-1780288248-1780270248"
       },
       {
         "name": "TNT Sports Premium CL Movil",
@@ -54,7 +25,7 @@
     "links": [
       {
         "name": "Liga1max",
-        "url": "https://ym9yzq.fubohd.com:443/liga1max/mono.m3u8?token=8361f19684a8a253b0756d3aaaa4d988dd29c9a1-6d-1780283854-1780265854"
+        "url": "https://c2nvdxq.fubohd.com:443/liga1max/mono.m3u8?token=5781f4d4c33df31929ac55ff3bd540fb48fcb792-a0-1780288248-1780270248"
       },
       {
         "name": "Liga1max Movil",
@@ -71,11 +42,11 @@
     "links": [
       {
         "name": "Fanatiz08",
-        "url": "https://ag9wzq.fubohd.com:443/fanatiz8/mono.m3u8?token=281324492ae7c566c311e105767d009f3fdeef4b-6e-1780283855-1780265855"
+        "url": "https://bGFuZQ.fubohd.com:443/fanatiz8/mono.m3u8?token=6c498dfad1c3c196c6ae276cab9ccadbb74717d6-f0-1780288249-1780270249"
       },
       {
         "name": "Premiere 2 BR ",
-        "url": "https://x4bnd7lq.fubohd.com:443/premiere2/mono.m3u8?token=ce74d0008acc1fe0c2479bb9dbde0846faf7c6bc-cf-1780283855-1780265855"
+        "url": "https://bGFuZQ.fubohd.com:443/premiere2/mono.m3u8?token=135494dda37ef5deb3dd8c93c0deddbecef0f6df-af-1780288249-1780270249"
       }
     ]
   },
@@ -88,28 +59,11 @@
     "links": [
       {
         "name": "TNT Sports Premium CL",
-        "url": "https://qzv4jmsc.fubohd.com:443/tntsportschile/mono.m3u8?token=5f97fb653a9769467e9df57684892c0c2f6ad45c-29-1780283856-1780265856"
+        "url": "https://dw5pdgvk.fubohd.com:443/tntsportschile/mono.m3u8?token=0fb7e1136cd58431a04683432b7d6bd94529fe59-29-1780288250-1780270250"
       },
       {
         "name": "TNT Sports Premium CL Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntchile.html"
-      }
-    ]
-  },
-  {
-    "title": "Los Chankas vs UTC Cajamarca",
-    "tournament": "Perú",
-    "status": "15:15",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Liga1max",
-        "url": "https://aw1wcm92zq.fubohd.com:443/liga1max/mono.m3u8?token=0ba4ffb36c87b0319579166c0869d6b5622b806e-6a-1780283856-1780265856"
-      },
-      {
-        "name": "Liga1max Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/ligaperu.html"
       }
     ]
   },
@@ -122,7 +76,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://agvyby.fubohd.com:443/disney14/mono.m3u8?token=53e96e8c78795b0483a316665770fbf732c1784c-71-1780283857-1780265857"
+        "url": "https://wp9xqedt.fubohd.com:443/disney14/mono.m3u8?token=579395c8af9a486c94c19349fd0179d33d5975d1-d4-1780288250-1780270250"
       }
     ]
   },
@@ -135,7 +89,7 @@
     "links": [
       {
         "name": "TyC Sports",
-        "url": "https://agvyby.fubohd.com:443/tycsports/mono.m3u8?token=019c6eefb64f073cdc7cd14f8ca5fafd5bc2a2eb-40-1780283858-1780265858"
+        "url": "https://YXdlc29tZQ.fubohd.com:443/tycsports/mono.m3u8?token=370a7800f8c5ec21401fc03d80efd49c4826ac99-d2-1780288251-1780270251"
       },
       {
         "name": "TyC Sports Movil",
@@ -152,11 +106,11 @@
     "links": [
       {
         "name": "Sport TV1",
-        "url": "https://anvtcax.fubohd.com:443/sporttv1/mono.m3u8?token=6d1649d0eb37e056b596dd3ecc003e0d4adc8b7d-89-1780283858-1780265858"
+        "url": "https://bGFuZQ.fubohd.com:443/sporttv1/mono.m3u8?token=8d8a92512110aa7e14ee3f73af5e5881a1954293-6e-1780288251-1780270251"
       },
       {
         "name": "Sportv",
-        "url": "https://aw1wcm92zq.fubohd.com:443/sportv/mono.m3u8?token=2fae834cfb62b41bc1010544610609fad5841789-5e-1780283859-1780265859"
+        "url": "https://YXdlc29tZQ.fubohd.com:443/sportv/mono.m3u8?token=7077be350d15d811745f0ba0e4ced4235e6c88f2-29-1780288251-1780270251"
       }
     ]
   },
@@ -169,7 +123,7 @@
     "links": [
       {
         "name": "Premiere 3 BR ",
-        "url": "https://tyg2mnl9.fubohd.com:443/premiere3/mono.m3u8?token=f82be6fe6912b2aff96058f46a23717397b91975-15-1780283859-1780265859"
+        "url": "https://x4bnd7lq.fubohd.com:443/premiere3/mono.m3u8?token=d65cc539489dd9db58b6816bdf9b851921cde6e6-93-1780288252-1780270252"
       },
       {
         "name": "Fanatiz09",
@@ -186,7 +140,7 @@
     "links": [
       {
         "name": "ESPN2",
-        "url": "https://b2ZmaWNpYWw.fubohd.com:443/espn2/mono.m3u8?token=64039bc0956590da32ae531f23eb986b999d6f40-6b-1780283860-1780265860"
+        "url": "https://aw1wcm92zq.fubohd.com:443/espn2/mono.m3u8?token=ee7e85dc0476fcef294f5c3f1be89945e2f13196-d-1780288252-1780270252"
       },
       {
         "name": "ESPN2 Movil",
@@ -203,7 +157,7 @@
     "links": [
       {
         "name": "ESPN4",
-        "url": "https://cgxheq.fubohd.com:443/espn4/mono.m3u8?token=67d9222815c9c1910d18e865d0e0ac18ef5e677b-b8-1780283860-1780265860"
+        "url": "https://rm8zcvk3.fubohd.com:443/espn4/mono.m3u8?token=975654070157cd663312628effab1d09aca8b6f8-7-1780288253-1780270253"
       },
       {
         "name": "ESPN4 Movil",
