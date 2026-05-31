@@ -1,48 +1,5 @@
 [
   {
-    "title": "Melgar vs Alianza Atlético",
-    "tournament": "Perú",
-    "status": "11:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Liga1max",
-        "url": "https://wp9xqedt.fubohd.com:443/liga1max/mono.m3u8?token=8579aed99d2f5e8d73474123899b4aba46e73b9c-b9-1780260918-1780242918"
-      },
-      {
-        "name": "Liga1max Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/ligaperu.html"
-      }
-    ]
-  },
-  {
-    "title": "Real Zaragoza vs Málaga",
-    "tournament": "España",
-    "status": "11:30",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://cgxheq.fubohd.com:443/disney5/mono.m3u8?token=204c5874798a13e44040f240a72b661de5639e3e-6a-1780260919-1780242919"
-      }
-    ]
-  },
-  {
-    "title": "Racing Santander vs Cádiz",
-    "tournament": "España",
-    "status": "11:30",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://wp9xqedt.fubohd.com:443/disney6/mono.m3u8?token=8d708e3bc3b05780163e61945be0c02b66a85cc7-3f-1780260919-1780242919"
-      }
-    ]
-  },
-  {
     "title": "Juventud vs Wanderers",
     "tournament": "Uruguay",
     "status": "13:00",
@@ -51,7 +8,100 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://b2ZmaWNpYWw.fubohd.com:443/disney8/mono.m3u8?token=477649b4750296cf17849b88bcc55d623f91ebca-c9-1780260920-1780242920"
+        "url": "https://bGFuZQ.fubohd.com:443/disney9/mono.m3u8?token=7d5265931282ce3ba5ce11b2898f34a69709d375-dc-1780265755-1780247755"
+      }
+    ]
+  },
+  {
+    "title": "Estudiantes vs Rosario Central",
+    "tournament": "Argentina",
+    "status": "13:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "TyC Sports",
+        "url": "https://anvtcax.fubohd.com:443/tycsports/mono.m3u8?token=80378a7e5ca931c44c8a6e40a47dea7edb9cc996-f-1780265756-1780247756"
+      },
+      {
+        "name": "TyC Sports Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tycsportsarg.html"
+      },
+      {
+        "name": "TyC Sports Internacional",
+        "url": "https://tyg2mnl9.fubohd.com:443/tycinternacional/mono.m3u8?token=a056e04c3d6fb430bce67ed3fc87acd5b14bf3de-eb-1780265756-1780247756"
+      }
+    ]
+  },
+  {
+    "title": "Palmeiras vs Chapecoense",
+    "tournament": "Brasil",
+    "status": "14:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Premiere BR ",
+        "url": "https://cgxheq.fubohd.com:443/premiere1/mono.m3u8?token=9a41946f908e18b29f8326cdaa206625353fcfac-3-1780265757-1780247757"
+      }
+    ]
+  },
+  {
+    "title": "Vasco da Gama vs Atlético Mineiro",
+    "tournament": "Brasil",
+    "status": "14:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Amazon Prime",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/amazon_prime1/mono.m3u8?token=246024c00a8b351ff13c8024dc298a100e420b95-df-1780265757-1780247757"
+      }
+    ]
+  },
+  {
+    "title": "EE. UU. vs Senegal",
+    "tournament": "Amistoso Paises",
+    "status": "14:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Disney+",
+        "url": "https://cgxheq.fubohd.com:443/disney13/mono.m3u8?token=63e9e8a53e104452004e8bf151bde4b8bde8dbf8-51-1780265757-1780247757"
+      },
+      {
+        "name": "ESPN MX",
+        "url": "https://dw5pdgvk.fubohd.com:443/espnmx/mono.m3u8?token=4d9d6cdf1ee63aa86a1cc59d210b744129ff71ad-8b-1780265758-1780247758"
+      },
+      {
+        "name": "ESPN MX MOVIL",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espnmx.1.html"
+      },
+      {
+        "name": "Universo 2",
+        "url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbCh1bml2ZXJzby1lYXN0KS9tYXN0ZXIubXBk&k=OTZiNjdmYTA5MTQwMzI5YTg5YjdhMWVhZDEzNGVkYTM6YzYxOGQzMmM1NmNkYzZjYWQ4MzMwZWI5ODUwN2NhM2Y="
+      },
+      {
+        "name": "Telemundo 2",
+        "url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      }
+    ]
+  },
+  {
+    "title": "Melgar vs Alianza Atlético",
+    "tournament": "Perú",
+    "status": "11:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Liga1max",
+        "url": "https://cgxheq.fubohd.com:443/liga1max/mono.m3u8?token=158284f5c0029464a05cd9100c65992f78c64bae-d4-1780265759-1780247759"
+      },
+      {
+        "name": "Liga1max Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/ligaperu.html"
       }
     ]
   },
@@ -64,7 +114,7 @@
     "links": [
       {
         "name": "TNT Sports Premium CL",
-        "url": "https://tyg2mnl9.fubohd.com:443/tntsportschile/mono.m3u8?token=5f2e691ed1a63b8356c9cdf6dbf7b217f75a6f93-b9-1780260921-1780242921"
+        "url": "https://ag9wzq.fubohd.com:443/tntsportschile/mono.m3u8?token=0dda354de725a516cf8ca48c1f397b3e6a89e319-5e-1780265759-1780247759"
       },
       {
         "name": "TNT Sports Premium CL Movil",
@@ -81,49 +131,11 @@
     "links": [
       {
         "name": "Liga1max",
-        "url": "https://aw1wcm92zq.fubohd.com:443/liga1max/mono.m3u8?token=6b409308eff508cea82e58f3a9913132c98c2b34-f0-1780260921-1780242921"
+        "url": "https://tyg2mnl9.fubohd.com:443/liga1max/mono.m3u8?token=9cecf89e8886c07d16fe10e4b3281a29175dec8f-da-1780265760-1780247760"
       },
       {
         "name": "Liga1max Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/ligaperu.html"
-      }
-    ]
-  },
-  {
-    "title": "EE. UU. vs Senegal",
-    "tournament": "Amistoso Paises",
-    "status": "14:30",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://aw1wcm92zq.fubohd.com:443/disney12/mono.m3u8?token=af788f37b7c6119b2a1f78730d42796f2ca837cf-25-1780260922-1780242922"
-      }
-    ]
-  },
-  {
-    "title": "Suiza vs Jordania",
-    "tournament": "Amistoso Paises",
-    "status": "08:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "ESPN",
-        "url": "https://rm8zcvk3.fubohd.com:443/espn/mono.m3u8?token=85f4f51b6cf37b26b8a71481f9442db87c8b2443-f7-1780260922-1780242922"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://dw5pdgvk.fubohd.com:443/disney2/mono.m3u8?token=4221e63ae634358c1da4d62930443bc6ab4de099-e5-1780260923-1780242923"
-      },
-      {
-        "name": "ESPN Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
-      },
-      {
-        "name": "FOX Sports 2 USA",
-        "url": "https://x4bnd7lq.fubohd.com:443/foxsports2_usa/mono.m3u8?token=bacc92a438137d9f92d186615a864bb254c10893-83-1780260923-1780242923"
       }
     ]
   },
@@ -136,7 +148,7 @@
     "links": [
       {
         "name": "Premiere BR ",
-        "url": "https://b2ZmaWNpYWw.fubohd.com:443/premiere1/mono.m3u8?token=dd998e0af56949cc620435aba20905dbbef4b722-d1-1780260924-1780242924"
+        "url": "https://tyg2mnl9.fubohd.com:443/premiere1/mono.m3u8?token=aef05c79d51d80e518494ba148c7ee322fcda038-35-1780265760-1780247760"
       }
     ]
   },
@@ -149,7 +161,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://a2vlca.fubohd.com:443/disney4/mono.m3u8?token=db4af9e70ddf0546b1e291a23c6ad674eee9c662-7b-1780260924-1780242924"
+        "url": "https://x4bnd7lq.fubohd.com:443/disney4/mono.m3u8?token=239050995c872b84fb104019a69a39886588ba8d-86-1780265761-1780247761"
       }
     ]
   },
@@ -162,29 +174,12 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://ym9yzq.fubohd.com:443/disney19/mono.m3u8?token=53432b5188bd189193b20a2f02549a2607e7feac-33-1780260925-1780242925"
+        "url": "https://anvtcax.fubohd.com:443/disney19/mono.m3u8?token=018fd6b628054fcc884235caa894a06876329ea0-57-1780265761-1780247761"
       }
     ]
   },
   {
-    "title": "Deportes Limache vs Coquimbo Unido",
-    "tournament": "Chile",
-    "status": "11:30",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "TNT Sports Premium CL",
-        "url": "https://aw1wcm92zq.fubohd.com:443/tntsportschile/mono.m3u8?token=94f91d67cf3d91f81d8d814102680dccda1c9c86-11-1780260926-1780242926"
-      },
-      {
-        "name": "TNT Sports Premium CL Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntchile.html"
-      }
-    ]
-  },
-  {
-    "title": "Burgos vs FC Andorra",
+    "title": "Real Zaragoza vs Málaga",
     "tournament": "España",
     "status": "11:30",
     "homeLogo": null,
@@ -192,24 +187,20 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://anvtcax.fubohd.com:443/disney7/mono.m3u8?token=907851d3eb5f07fc7331aa2a485cfb53686897fc-bf-1780260926-1780242926"
+        "url": "https://agvyby.fubohd.com:443/disney6/mono.m3u8?token=fa7bfb5d2324593ac71f38911938aafdcf9e52bc-cb-1780265762-1780247762"
       }
     ]
   },
   {
-    "title": "FC Cajamarca vs Alianza Lima",
-    "tournament": "Perú",
-    "status": "13:15",
+    "title": "Racing Santander vs Cádiz",
+    "tournament": "España",
+    "status": "11:30",
     "homeLogo": null,
     "awayLogo": null,
     "links": [
       {
-        "name": "Liga1max",
-        "url": "https://ag9wzq.fubohd.com:443/liga1max/mono.m3u8?token=4a17567f781be74eba33f38f98f43f5fe6048ff2-28-1780260927-1780242927"
-      },
-      {
-        "name": "Liga1max Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/ligaperu.html"
+        "name": "Disney+",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/disney7/mono.m3u8?token=f905fd69f21edea86176ccd94680d20c63593b2c-1c-1780265762-1780247762"
       }
     ]
   },
@@ -222,7 +213,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://rm8zcvk3.fubohd.com:443/disney9/mono.m3u8?token=78fed117303284381bdbb6100df5393843990747-da-1780260927-1780242927"
+        "url": "https://ag9wzq.fubohd.com:443/disney10/mono.m3u8?token=801fdd7c76e822c98f38ab12d60deec91fe7a5ed-fc-1780265762-1780247762"
       }
     ]
   },
@@ -235,15 +226,19 @@
     "links": [
       {
         "name": "ESPN",
-        "url": "https://a2vlca.fubohd.com:443/espn/mono.m3u8?token=9d01838da69bf79d1f07dc9700b4522dce07c8b7-c3-1780260928-1780242928"
+        "url": "https://qzv4jmsc.fubohd.com:443/espn/mono.m3u8?token=ee08799e5207c2399782b62a11ccef154760328a-fa-1780265763-1780247763"
       },
       {
         "name": "Disney+",
-        "url": "https://agvyby.fubohd.com:443/disney10/mono.m3u8?token=4196759933fc907890ea3f6c92bdeeb075fd36e1-57-1780260928-1780242928"
+        "url": "https://agvyby.fubohd.com:443/disney11/mono.m3u8?token=6f97c236bcb40b117b0fb3f038ff8c2525b11f41-35-1780265763-1780247763"
       },
       {
         "name": "ESPN Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
+      },
+      {
+        "name": "FOX Sports 2 USA",
+        "url": "https://rm8zcvk3.fubohd.com:443/foxsports2_usa/mono.m3u8?token=6a7b6f11c818f2d2f84201648794ad85faf683aa-39-1780265764-1780247764"
       }
     ]
   },
@@ -256,20 +251,54 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://YXdlc29tZQ.fubohd.com:443/disney11/mono.m3u8?token=12938290c2d8289858f4da8604c4a29f82434573-cb-1780260929-1780242929"
+        "url": "https://ag9wzq.fubohd.com:443/disney12/mono.m3u8?token=eb424b17bd0f5fa3194aba79925eb7fec66ad436-82-1780265764-1780247764"
       }
     ]
   },
   {
-    "title": "Albion vs Torque",
-    "tournament": "Uruguay",
-    "status": "08:00",
+    "title": "Deportes Limache vs Coquimbo Unido",
+    "tournament": "Chile",
+    "status": "11:30",
     "homeLogo": null,
     "awayLogo": null,
     "links": [
       {
-        "name": "Disney+",
-        "url": "https://YXdlc29tZQ.fubohd.com:443/disney3/mono.m3u8?token=a41d5714ddd65a0d2342fd6e7ef0d6783a89ca3e-4-1780260929-1780242929"
+        "name": "TNT Sports Premium CL",
+        "url": "https://anvtcax.fubohd.com:443/tntsportschile/mono.m3u8?token=a13c1902c01cd295bd0b25dd55d2441186fa71e4-1d-1780265764-1780247764"
+      },
+      {
+        "name": "TNT Sports Premium CL Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tntchile.html"
+      }
+    ]
+  },
+  {
+    "title": "Brasil vs Panamá",
+    "tournament": "Amistoso Paises",
+    "status": "16:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Sportv",
+        "url": "https://ym9yzq.fubohd.com:443/sportv/mono.m3u8?token=9f2693e7da50379cc5beaac41a5ffdae8b258e2c-ef-1780265765-1780247765"
+      }
+    ]
+  },
+  {
+    "title": "FC Cajamarca vs Alianza Lima",
+    "tournament": "Perú",
+    "status": "13:15",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Liga1max",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/liga1max/mono.m3u8?token=a70baaa9efc2daa4322f4ffcef55b74bc184c1f5-e9-1780265765-1780247765"
+      },
+      {
+        "name": "Liga1max Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/ligaperu.html"
       }
     ]
   },
@@ -282,11 +311,11 @@
     "links": [
       {
         "name": "ESPN7",
-        "url": "https://tyg2mnl9.fubohd.com:443/espn7/mono.m3u8?token=b0ad0eb674be174ecfc66ef78cc078274ce77a47-94-1780260930-1780242930"
+        "url": "https://dw5pdgvk.fubohd.com:443/espn7/mono.m3u8?token=10d66f0bbcfe3c47a81e3eb76e7ba03602ce5ef3-3a-1780265766-1780247766"
       },
       {
         "name": "Disney+",
-        "url": "https://tyg2mnl9.fubohd.com:443/disney20/mono.m3u8?token=d4237ec24c1513f1a3185a7795853ace6da98403-37-1780260931-1780242931"
+        "url": "https://bGFuZQ.fubohd.com:443/disney20/mono.m3u8?token=1fbf1b3b8db21f2bffc4c6529ac117b2f5182d97-f5-1780265766-1780247766"
       },
       {
         "name": "ESPN7 Movil",
@@ -303,7 +332,20 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://a2vlca.fubohd.com:443/disney5/mono.m3u8?token=77061a2a4754d3cccd744b6bfe5efbc785c56f96-f9-1780260931-1780242931"
+        "url": "https://cgxheq.fubohd.com:443/disney5/mono.m3u8?token=b403b3697a03d6b60418f6161b7d9aac5ce0d143-c-1780265767-1780247767"
+      }
+    ]
+  },
+  {
+    "title": "Burgos vs FC Andorra",
+    "tournament": "España",
+    "status": "11:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Disney+",
+        "url": "https://ym9yzq.fubohd.com:443/disney8/mono.m3u8?token=faf47c29e7bcf8e1d8ba3143c93e9710f641ad3c-4e-1780265767-1780247767"
       }
     ]
   }
