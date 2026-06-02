@@ -1,1 +1,201 @@
-[]
+[
+  {
+    "title": "Gales vs Ghana",
+    "tournament": "Amistoso Paises",
+    "status": "13:45",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN",
+        "url": "https://ag9wzq.fubohd.com:443/espn/mono.m3u8?token=bc8675cbb324ed55dba36cfe81fd25abd981e8c2-81-1780421850-1780403850"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://cgxheq.fubohd.com:443/disney3/mono.m3u8?token=033f71998a71344e572e3a7316fbe1a028c61d35-dd-1780421850-1780403850"
+      },
+      {
+        "name": "ESPN Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
+      },
+      {
+        "name": "FOX Sports 2 USA",
+        "url": "https://cgxheq.fubohd.com:443/foxsports2_usa/mono.m3u8?token=8aa8d170d91358634b902ae6c57b570a0ae53372-3f-1780421851-1780403851"
+      }
+    ]
+  },
+  {
+    "title": "NHL: Vegas Golden Knights vs. Carolina Hurricanes (Stanley Cup Final Game 2)",
+    "tournament": "NHL",
+    "status": "19:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN4",
+        "url": "https://cgxheq.fubohd.com:443/espn4/mono.m3u8?token=a3559294bddd3825daa3cce3e8d33488363e5563-55-1780421852-1780403852"
+      },
+      {
+        "name": "ESPN4 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn4.2.html"
+      }
+    ]
+  },
+  {
+    "title": "Barracas Central vs Huracán",
+    "tournament": "Argentina",
+    "status": "19:15",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "TyC Sports",
+        "url": "https://anvtcax.fubohd.com:443/tycsports/mono.m3u8?token=f5733c068ceae48718274a7d2df95583215750f0-64-1780421852-1780403852"
+      },
+      {
+        "name": "TyC Sports Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/tycsportsarg.html"
+      }
+    ]
+  },
+  {
+    "title": "MLB – New York Yankees vs Cleveland Guardians",
+    "tournament": "MLB",
+    "status": "18:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN3",
+        "url": "https://cgxheq.fubohd.com:443/espn3/mono.m3u8?token=b40a240c77e92f2b5f09fb86a0dd56cf972b40c5-22-1780421853-1780403853"
+      },
+      {
+        "name": "ESPN3 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn3tv.html"
+      }
+    ]
+  },
+  {
+    "title": "China PR Sub-20 vs RD del Congo Sub-20",
+    "tournament": "FIFA",
+    "status": "08:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://c2nvdxq.fubohd.com:443/foxdeportes/mono.m3u8?token=b6becc1119bbb0aebea1af8e980e20450e84ac5c-fa-1780421853-1780403853"
+      },
+      {
+        "name": "FOX Deportes | Móvil",
+        "url": "https://rojadirectatve.com/sw3.htmlget=https://rojadirectatve.com/repro/foxdeportestv.html"
+      }
+    ]
+  },
+  {
+    "title": "Croacia vs Bélgica",
+    "tournament": "Amistoso Paises",
+    "status": "11:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN",
+        "url": "https://b2ZmaWNpYWw.fubohd.com:443/espn/mono.m3u8?token=0e9b67c49897be3ae224917a6c1a449ea08011ab-54-1780421854-1780403854"
+      },
+      {
+        "name": "Disney+",
+        "url": "https://anvtcax.fubohd.com:443/disney1/mono.m3u8?token=f143dd873230852600da0c873801328f040c38e5-d3-1780421855-1780403855"
+      },
+      {
+        "name": "ESPN Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
+      }
+    ]
+  },
+  {
+    "title": "Arabia Saudita Sub-23 vs Colombia Sub-20",
+    "tournament": "FIFA",
+    "status": "11:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://c2nvdxq.fubohd.com:443/foxdeportes/mono.m3u8?token=95e4bf38fa4a75225177f4a9c02f1d3df286b488-1f-1780421855-1780403855"
+      },
+      {
+        "name": "Win Sports",
+        "url": "https://aw1wcm92zq.fubohd.com:443/winsports/mono.m3u8?token=49b3af855a62d4840cf8c1bda8ab59587459d230-41-1780421856-1780403856"
+      }
+    ]
+  },
+  {
+    "title": "Georgia vs Rumania",
+    "tournament": "Amistoso Paises",
+    "status": "12:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Disney+",
+        "url": "https://tyg2mnl9.fubohd.com:443/disney2/mono.m3u8?token=ef683314abbec38bd5775818ea1f1fb01a400c17-fd-1780421856-1780403856"
+      }
+    ]
+  },
+  {
+    "title": "Medellín vs Cúcuta Deportivo",
+    "tournament": "Colombia",
+    "status": "18:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Win Sports",
+        "url": "https://dw5pdgvk.fubohd.com:443/winsports/mono.m3u8?token=31dd1deffc37500cce92d7b23a67daee8993ca4c-32-1780421857-1780403857"
+      },
+      {
+        "name": "Fanatiz04",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/fanatiz4/mono.m3u8?token=80d58fb6e8fa6672ef36e3013b4490c41fed5233-7b-1780421858-1780403858"
+      }
+    ]
+  },
+  {
+    "title": "Haití vs Nueva Zelanda",
+    "tournament": "Amistoso Paises",
+    "status": "19:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://qzv4jmsc.fubohd.com:443/foxdeportes/mono.m3u8?token=4742ea3c96f20020c4b431045805b4ca925f6f9c-36-1780421858-1780403858"
+      }
+    ]
+  },
+  {
+    "title": "Junior vs Atlético Nacional | FINAL 1/2",
+    "tournament": "Colombia",
+    "status": "19:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Win Sports +",
+        "url": "https://agvyby.fubohd.com:443/winsportsplus/mono.m3u8?token=6d4b4b49059b7a8be8d45c555feeedf335b5b086-37-1780421859-1780403859"
+      },
+      {
+        "name": "Win Sports + HD",
+        "url": "https://cgxheq.fubohd.com:443/winsports2/mono.m3u8?token=a1f84071c394e98b155cd300c6da4b5f2290e824-17-1780421859-1780403859"
+      },
+      {
+        "name": "Win Sports + |  opc3",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/winsports.html"
+      },
+      {
+        "name": "Fanatiz02",
+        "url": "https://wp9xqedt.fubohd.com:443/fanatiz2/mono.m3u8?token=7ef2defc3062f49f7ef84f6305aec8f48c49b70d-ea-1780421860-1780403860"
+      }
+    ]
+  }
+]
