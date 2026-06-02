@@ -1,30 +1,5 @@
 [
   {
-    "title": "Gales vs Ghana",
-    "tournament": "Amistoso Paises",
-    "status": "13:45",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "ESPN",
-        "url": "https://agvyby.fubohd.com:443/espn/mono.m3u8?token=ecf945379938e718744b634261c241a212740549-b9-1780449043-1780431043"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://ag9wzq.fubohd.com:443/disney3/mono.m3u8?token=d9facbfe97c3c50a0b85c461ebb419197807af23-f4-1780449044-1780431044"
-      },
-      {
-        "name": "ESPN Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
-      },
-      {
-        "name": "FOX Sports 2 USA",
-        "url": "https://rm8zcvk3.fubohd.com:443/foxsports2_usa/mono.m3u8?token=bb4bc7912913fea6fcfa7bfe56f6a9292e0724d1-ac-1780449044-1780431044"
-      }
-    ]
-  },
-  {
     "title": "NHL: Vegas Golden Knights vs. Carolina Hurricanes (Stanley Cup Final Game 2)",
     "tournament": "NHL",
     "status": "19:00",
@@ -33,7 +8,7 @@
     "links": [
       {
         "name": "ESPN4",
-        "url": "https://aw1wcm92zq.fubohd.com:443/espn4/mono.m3u8?token=28f82a1efb110ec09d30d009cc49588a8105dab3-b3-1780449044-1780431044"
+        "url": "https://b2ZmaWNpYWw.fubohd.com:443/espn4/mono.m3u8?token=aced275fa6fd7668017dfc792f76567fbb263209-c8-1780456781-1780438781"
       },
       {
         "name": "ESPN4 Movil",
@@ -50,7 +25,7 @@
     "links": [
       {
         "name": "TyC Sports",
-        "url": "https://bGFuZQ.fubohd.com:443/tycsports/mono.m3u8?token=70ec3349576404394a8b5a31e5b3f3a4ef6be609-b4-1780449045-1780431045"
+        "url": "https://ag9wzq.fubohd.com:443/tycsports/mono.m3u8?token=0771f301045df8343bf32ef229999e88ec47ada9-66-1780456782-1780438782"
       },
       {
         "name": "TyC Sports Movil",
@@ -67,24 +42,11 @@
     "links": [
       {
         "name": "ESPN3",
-        "url": "https://cgxheq.fubohd.com:443/espn3/mono.m3u8?token=910772a4d1826acc6a2abdedf5a2b98d1001c78c-29-1780449045-1780431045"
+        "url": "https://dw5pdgvk.fubohd.com:443/espn3/mono.m3u8?token=add13484890c40173317afbb6d4e490d0119942b-3a-1780456782-1780438782"
       },
       {
         "name": "ESPN3 Movil",
         "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn3tv.html"
-      }
-    ]
-  },
-  {
-    "title": "Georgia vs Rumania",
-    "tournament": "Amistoso Paises",
-    "status": "12:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://b2ZmaWNpYWw.fubohd.com:443/disney2/mono.m3u8?token=d5225d1c26bf5c9d21fca61a3b266093ade46aa6-f9-1780449046-1780431046"
       }
     ]
   },
@@ -97,11 +59,11 @@
     "links": [
       {
         "name": "Win Sports",
-        "url": "https://bGFuZQ.fubohd.com:443/winsports/mono.m3u8?token=14740b2c48ae443b997606b90291354a56813923-ee-1780449046-1780431046"
+        "url": "https://YXdlc29tZQ.fubohd.com:443/winsports/mono.m3u8?token=7b375e0dd9d63c1ff20d7a19c99b39a94c4b6321-d0-1780456782-1780438782"
       },
       {
         "name": "Fanatiz04",
-        "url": "https://rm8zcvk3.fubohd.com:443/fanatiz4/mono.m3u8?token=f16b73709d81ae7600e602afc63bdf248b90d78f-32-1780449047-1780431047"
+        "url": "https://ym9yzq.fubohd.com:443/fanatiz4/mono.m3u8?token=decbf962db460cd4668a7821dc55e73c796c93ed-26-1780456783-1780438783"
       }
     ]
   },
@@ -114,7 +76,7 @@
     "links": [
       {
         "name": "FOX Deportes",
-        "url": "https://qzv4jmsc.fubohd.com:443/foxdeportes/mono.m3u8?token=7840b79fded5a718a5546b027c5d0fb3d5a23af2-a8-1780449047-1780431047"
+        "url": "https://agvyby.fubohd.com:443/foxdeportes/mono.m3u8?token=848e150834d913ba087c9cce13adf2fd2ea73a59-cb-1780456783-1780438783"
       }
     ]
   },
@@ -127,11 +89,11 @@
     "links": [
       {
         "name": "Win Sports +",
-        "url": "https://agvyby.fubohd.com:443/winsportsplus/mono.m3u8?token=1973a0dea43356fd172fb93d054028eec0894bdc-ec-1780449047-1780431047"
+        "url": "https://ag9wzq.fubohd.com:443/winsportsplus/mono.m3u8?token=7f633077d7d57ff99f691dd6d36cea8456d0f772-ee-1780456784-1780438784"
       },
       {
         "name": "Win Sports + HD",
-        "url": "https://ag9wzq.fubohd.com:443/winsports2/mono.m3u8?token=1ae01a45043f03de8b53095e1f0465f4a79fe72d-49-1780449048-1780431048"
+        "url": "https://ym9yzq.fubohd.com:443/winsports2/mono.m3u8?token=8232a4a2dadf5a64cea7dcfbd9c099948869c9ab-7d-1780456784-1780438784"
       },
       {
         "name": "Win Sports + |  opc3",
@@ -139,7 +101,7 @@
       },
       {
         "name": "Fanatiz02",
-        "url": "https://a2vlca.fubohd.com:443/fanatiz2/mono.m3u8?token=9b6b4995df788cf021c7a4282a467e340dd76902-cd-1780449048-1780431048"
+        "url": "https://YXdlc29tZQ.fubohd.com:443/fanatiz2/mono.m3u8?token=911be4fbd3754057ab94934399aa0a4e614675b7-90-1780456785-1780438785"
       }
     ]
   }
