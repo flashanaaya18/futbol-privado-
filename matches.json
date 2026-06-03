@@ -1,1 +1,88 @@
-[]
+[
+  {
+    "title": "Japón vs Portugal",
+    "tournament": "FIFA",
+    "status": "08:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://cgxheq.fubohd.com:443/foxdeportes/mono.m3u8?token=002a1ed85713a319aecb3a5a33fcd2234d06d83f-d1-1780516920-1780498920"
+      }
+    ]
+  },
+  {
+    "title": "MLB – Minnesota Twins vs Chicago White Sox",
+    "tournament": "MLB",
+    "status": "12:30",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN5",
+        "url": "https://anvtcax.fubohd.com:443/espn5/mono.m3u8?token=2189a3c33bc1380d4d8230b79d54a1b416560290-91-1780516920-1780498920"
+      },
+      {
+        "name": "ESPN5 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn5tv.html"
+      }
+    ]
+  },
+  {
+    "title": "Albania vs Israel",
+    "tournament": "Amistoso Paises",
+    "status": "13:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Disney+",
+        "url": "https://ym9yzq.fubohd.com:443/disney2/mono.m3u8?token=9c357391ac135bada207dffbcd261a67619b63b1-74-1780516921-1780498921"
+      }
+    ]
+  },
+  {
+    "title": "Costa de Marfil vs Venezuela",
+    "tournament": "FIFA",
+    "status": "08:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "FOX Deportes",
+        "url": "https://anvtcax.fubohd.com:443/foxdeportes/mono.m3u8?token=c9df2c1f5d490c91974778bb820835f5bcb401ed-ea-1780516921-1780498921"
+      }
+    ]
+  },
+  {
+    "title": "RD del Congo vs Dinamarca",
+    "tournament": "Amistoso Paises",
+    "status": "13:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Disney+",
+        "url": "https://bGFuZQ.fubohd.com:443/disney1/mono.m3u8?token=b86f6b0c550b4229224a677a69c684cfeaa3edac-d0-1780516921-1780498921"
+      }
+    ]
+  },
+  {
+    "title": "Rosario Central vs Racing Club",
+    "tournament": "Argentina",
+    "status": "13:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "ESPN3",
+        "url": "https://c2nvdxq.fubohd.com:443/espn3/mono.m3u8?token=632e081ec2d423b652de41cf7c0fabeb885d92d1-7b-1780516922-1780498922"
+      },
+      {
+        "name": "ESPN3 Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn3tv.html"
+      }
+    ]
+  }
+]
