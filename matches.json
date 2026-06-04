@@ -1,18 +1,5 @@
 [
   {
-    "title": "Luxemburgo vs Italia",
-    "tournament": "Amistoso Paises",
-    "status": "13:45",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://ym9yzq.fubohd.com:443/disney4/mono.m3u8?token=42c2b8f867df88ac198bc39be81f9be0f74a8fcf-25-1780541436-1780523436"
-      }
-    ]
-  },
-  {
     "title": "Corea del Sur vs El Salvador",
     "tournament": "Amistoso Paises",
     "status": "18:00",
@@ -21,7 +8,7 @@
     "links": [
       {
         "name": "Sportv",
-        "url": "https://bGFuZQ.fubohd.com:443/sportv/mono.m3u8?token=8a5f39f6a4ff628a2f38e80ddc29b0c24c4ad17c-51-1780541436-1780523436"
+        "url": "https://b2ZmaWNpYWw.fubohd.com:443/sportv/mono.m3u8?token=ceb9c8881ba028eb1f77ccaa7bd0d94e3efaa5db-f3-1780548403-1780530403"
       }
     ]
   },
@@ -34,7 +21,7 @@
     "links": [
       {
         "name": "TyC Sports",
-        "url": "https://c2nvdxq.fubohd.com:443/tycsports/mono.m3u8?token=e37664dd5a2401bdc04febae5c36b7f0111c40d1-cf-1780541436-1780523436"
+        "url": "https://cgxheq.fubohd.com:443/tycsports/mono.m3u8?token=406e0adf8fe07e24d1e3a349b7b3bf6fbf332d8c-a8-1780548404-1780530404"
       },
       {
         "name": "TyC Sports Movil",
@@ -51,41 +38,7 @@
     "links": [
       {
         "name": "Eventos",
-        "url": "https://rm8zcvk3.fubohd.com:443/eventos4/mono.m3u8?token=0a848384862607a1555576cdfbf31369bec3dfca-38-1780541437-1780523437"
-      }
-    ]
-  },
-  {
-    "title": "Países Bajos vs Argelia",
-    "tournament": "Amistoso Paises",
-    "status": "13:45",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "ESPN",
-        "url": "https://wp9xqedt.fubohd.com:443/espn/mono.m3u8?token=4531c68f0317f79e1f5863c28e11cdbd3329fe5f-10-1780541437-1780523437"
-      },
-      {
-        "name": "Disney+",
-        "url": "https://c2nvdxq.fubohd.com:443/disney3/mono.m3u8?token=c414bd373db06422a132b67d8023a67a006c9235-f7-1780541438-1780523438"
-      },
-      {
-        "name": "ESPN Movil",
-        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
-      }
-    ]
-  },
-  {
-    "title": "Polonia vs Nigeria",
-    "tournament": "Amistoso Paises",
-    "status": "13:45",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://YXdlc29tZQ.fubohd.com:443/disney5/mono.m3u8?token=ebd9833fae1f096e573c271e3e3695c47a3f6d60-37-1780541438-1780523438"
+        "url": "https://x4bnd7lq.fubohd.com:443/eventos4/mono.m3u8?token=197aac14d1a097e450c3171f8ac612b2021dbfed-f0-1780548404-1780530404"
       }
     ]
   },
@@ -98,7 +51,7 @@
     "links": [
       {
         "name": "ESPN Deportes",
-        "url": "https://aw1wcm92zq.fubohd.com:443/espndeportes/mono.m3u8?token=32e8caf0d2e05960f250b9182e9c6cad19dc800d-79-1780541438-1780523438"
+        "url": "https://YXdlc29tZQ.fubohd.com:443/espndeportes/mono.m3u8?token=f99e40a9a65dcb114a90ba43221edb3fae37ac87-e1-1780548405-1780530405"
       }
     ]
   }
