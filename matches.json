@@ -1,18 +1,5 @@
 [
   {
-    "title": "Irlanda del Norte vs Guinea",
-    "tournament": "Amistoso Paises",
-    "status": "11:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://a2vlca.fubohd.com:443/disney1/mono.m3u8?token=6a8dfe292fd9e8496937a98c3be3675e286e569c-29-1780614674-1780596674"
-      }
-    ]
-  },
-  {
     "title": "Andorra vs Liechtenstein",
     "tournament": "Amistoso Paises",
     "status": "12:00",
@@ -21,20 +8,28 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://agvyby.fubohd.com:443/disney3/mono.m3u8?token=f34512bfa8e3abc5a0f9a468100384514d5d3b23-a6-1780614675-1780596675"
+        "url": "https://x4bnd7lq.fubohd.com:443/disney3/mono.m3u8?token=aefeff52aeb5666dfcf1b4d9ffb9fa2e980bff6b-a7-1780622305-1780604305"
       }
     ]
   },
   {
-    "title": "Eslovenia vs Chipre",
+    "title": "Francia vs Costa de Marfil",
     "tournament": "Amistoso Paises",
-    "status": "11:00",
+    "status": "14:15",
     "homeLogo": null,
     "awayLogo": null,
     "links": [
       {
+        "name": "ESPN",
+        "url": "https://ym9yzq.fubohd.com:443/espn/mono.m3u8?token=2e7094348673ff5e594edfb1dd2486ae2cf19c03-20-1780622305-1780604305"
+      },
+      {
         "name": "Disney+",
-        "url": "https://rm8zcvk3.fubohd.com:443/disney2/mono.m3u8?token=777530d36416b896d8d0baf094d181f960b17730-8a-1780614675-1780596675"
+        "url": "https://ym9yzq.fubohd.com:443/disney6/mono.m3u8?token=aad02255ab01afe2704cee2e5111dc939d22f865-50-1780622306-1780604306"
+      },
+      {
+        "name": "ESPN Movil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/espn1tv.html"
       }
     ]
   },
@@ -47,7 +42,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://wp9xqedt.fubohd.com:443/disney4/mono.m3u8?token=a37f7eb80dd5c339461a4d1ae7091f45c2534479-bd-1780614676-1780596676"
+        "url": "https://aw1wcm92zq.fubohd.com:443/disney4/mono.m3u8?token=de12b8e7d1f61d43ed97da11fb4e9c75ed896721-23-1780622306-1780604306"
       }
     ]
   },
@@ -60,7 +55,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://b2ZmaWNpYWw.fubohd.com:443/disney5/mono.m3u8?token=28e9d6ba57a3407c2bd94def5e2bbe8d403cbb3d-a3-1780614676-1780596676"
+        "url": "https://c2nvdxq.fubohd.com:443/disney5/mono.m3u8?token=d39b28856c6bd7dfdd17ea2120f3961ad6f89a7d-ff-1780622307-1780604307"
       },
       {
         "name": "TVE La 1 ES",
