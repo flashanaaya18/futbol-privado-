@@ -1,44 +1,5 @@
 [
   {
-    "title": "Georgia vs Bahréin",
-    "tournament": "Amistoso Paises",
-    "status": "11:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://a2vlca.fubohd.com:443/disney1/mono.m3u8?token=02eecbbe0fa7dd411848d228ef3f2fb73b009a32-4c-1780700817-1780682817"
-      }
-    ]
-  },
-  {
-    "title": "Bielorrusia vs Siria",
-    "tournament": "Amistoso Paises",
-    "status": "11:00",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://a2vlca.fubohd.com:443/disney2/mono.m3u8?token=c43c8e6fe6def16b17952bec1eefc4393e4eaf57-19-1780700818-1780682818"
-      }
-    ]
-  },
-  {
-    "title": "Eslovaquia vs Montenegro",
-    "tournament": "Amistoso Paises",
-    "status": "11:30",
-    "homeLogo": null,
-    "awayLogo": null,
-    "links": [
-      {
-        "name": "Disney+",
-        "url": "https://b2ZmaWNpYWw.fubohd.com:443/disney3/mono.m3u8?token=719add1964ec1f96c0140d229a407c74520706ed-53-1780700818-1780682818"
-      }
-    ]
-  },
-  {
     "title": "Wanderers vs Danubio",
     "tournament": "Uruguay",
     "status": "17:00",
@@ -47,7 +8,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://agvyby.fubohd.com:443/disney6/mono.m3u8?token=29a322c2f7b2a560b9a9a983d87d6592d870df81-10-1780700818-1780682818"
+        "url": "https://dw5pdgvk.fubohd.com:443/disney6/mono.m3u8?token=5686dc30d6920ac1963b250cb031ff49784c8441-17-1780708259-1780690259"
       }
     ]
   },
@@ -60,20 +21,62 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://YXdlc29tZQ.fubohd.com:443/disney5/mono.m3u8?token=c82c21baf8ee8489d1481575f6219e859bb7dbf1-94-1780700819-1780682819"
+        "url": "https://qzv4jmsc.fubohd.com:443/disney5/mono.m3u8?token=d19a04a5b86b246f98ab5b3d0a875b5902705150-e9-1780708260-1780690260"
       }
     ]
   },
   {
-    "title": "Arabia Saudita Sub-23 vs Túnez Sub-20",
-    "tournament": "FIFA",
-    "status": "11:30",
+    "title": "Plaza Colonia vs Huracán",
+    "tournament": "Uruguay",
+    "status": "17:00",
     "homeLogo": null,
     "awayLogo": null,
     "links": [
       {
+        "name": "Disney+",
+        "url": "https://ym9yzq.fubohd.com:443/disney9/mono.m3u8?token=af62d911f7dd4a7dbf686ed3fd0e11808a3a0122-46-1780708260-1780690260"
+      }
+    ]
+  },
+  {
+    "title": "Puerto Rico vs Arabia Saudita",
+    "tournament": "Amistoso Paises",
+    "status": "18:00",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "Sportv2",
+        "url": "https://la10tv.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvZ3J1LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9kc2EzaHd1aGQxL291dC92MS82MzFiNDhjOGQ5ZWE0MzdlODMwOWQxYTRiNTVhY2VmNS9jZW5jLm1wZA==&k=M2RlMDI4ZWFmYjNiMmNhZmZlYzAzYmUxYzFjODE4YjM6OGZiZGQ4YTlhZTY3NDg2OTZiYjEzZTU0N2JiMDkzZmM="
+      }
+    ]
+  },
+  {
+    "title": "Haití vs Perú",
+    "tournament": "Perú",
+    "status": "19:15",
+    "homeLogo": null,
+    "awayLogo": null,
+    "links": [
+      {
+        "name": "America TV",
+        "url": "https://tyg2mnl9.fubohd.com:443/americatv/mono.m3u8?token=96209c3a361269d833b79c382b8a39fa23a463cc-b7-1780708261-1780690261"
+      },
+      {
+        "name": "Movistar Deportes",
+        "url": "https://YXdlc29tZQ.fubohd.com:443/movistar/mono.m3u8?token=10ed9b47ed1def3c7869ef42e24d32ca5e169f03-33-1780708261-1780690261"
+      },
+      {
         "name": "FOX Deportes",
-        "url": "https://ym9yzq.fubohd.com:443/foxdeportes/mono.m3u8?token=2af30681c08dbb7e6a4c042db4066d5acd27ae2b-e6-1780700819-1780682819"
+        "url": "https://bGFuZQ.fubohd.com:443/foxdeportes/mono.m3u8?token=6c30d311b60ce201f601898fbc61d615073d5a15-3-1780708262-1780690262"
+      },
+      {
+        "name": "America TV Movil",
+        "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/americatv.html"
+      },
+      {
+        "name": "Movistar Deportes | Móvil",
+        "url": "https://rojadirectatve.com/sw3.html?get=https://rojadirectatve.com/repro/movistartv.html"
       }
     ]
   },
@@ -86,7 +89,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://x4bnd7lq.fubohd.com:443/disney4/mono.m3u8?token=6e1205b903db12ef320cf480f190b1926ff686af-e3-1780700820-1780682820"
+        "url": "https://rm8zcvk3.fubohd.com:443/disney4/mono.m3u8?token=07daf6ec70354bb36cfe711af139eb466e899c38-45-1780708262-1780690262"
       }
     ]
   },
@@ -99,7 +102,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://cgxheq.fubohd.com:443/disney7/mono.m3u8?token=fcdb5fe75714d5ac9b4001da52646f4ffdc4d568-8a-1780700820-1780682820"
+        "url": "https://rm8zcvk3.fubohd.com:443/disney7/mono.m3u8?token=b51d0fe087f710369b89dbee69786d053177d3d0-3c-1780708263-1780690263"
       }
     ]
   },
@@ -112,7 +115,7 @@
     "links": [
       {
         "name": "Disney+",
-        "url": "https://aw1wcm92zq.fubohd.com:443/disney8/mono.m3u8?token=096867ccbbc53f12db6781b293cfcff0c6401182-4b-1780700820-1780682820"
+        "url": "https://anvtcax.fubohd.com:443/disney8/mono.m3u8?token=e68ab75c438af36a233c12a4a443c1282e2d2fb0-e-1780708263-1780690263"
       }
     ]
   }
